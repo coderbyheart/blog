@@ -1,0 +1,39 @@
+baseurl:
+url: http://blog.cto.hiv
+
+harmony:
+  name: coder::by(♥); // blog
+  description: by Markus Tacker, a CTO from Offenbach, Germany.
+  meta_description: > #
+    Blog by Markus Tacker, a CTO from Offenbach, Germany.
+    I ♥ to code. Mostly backends. But I'll hack on the source code of your organization, too.
+    Opinions are my own.
+  basetheme: harmony
+  author:
+    name: Markus Tacker
+    email: m@cto.hiv
+    url: http://cto.hiv/en
+  social:
+    github: coderbyheart
+    twitter: coderbyheart
+
+# Conversion / Build settings 
+markdown:    kramdown
+# This is how you put pygments config in jekyll 2.0 instead of pygments: true
+highlighter: pygments 
+
+# Permalinks
+permalink:        pretty
+
+exclude: 
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
+
+# Sass conversion configs
+sass:
+    sass_dir: assets/css/_sass
+    style: :compressed
