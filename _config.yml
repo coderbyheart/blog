@@ -16,6 +16,8 @@ harmony:
   social:
     github: coderbyheart
     twitter: coderbyheart
+# disqus handle, leave blank to disable
+disqus: coderbyheart
 
 # Conversion / Build settings 
 markdown:    kramdown
