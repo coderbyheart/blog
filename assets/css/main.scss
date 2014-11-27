@@ -428,6 +428,11 @@ footer.main-footer {
   @include MQ(M) { padding: 2em 0; }
 }
 
+// Heart
+span.heart {
+  color: #c00;
+}
+
 
 /* ---------------------------------
 
@@ -667,7 +672,11 @@ tbody tr:nth-child(odd) th {
   background-color: $base-05;
 }
 
-// Heart
-span.heart {
-  color: #c00;
+
+// License
+p.license {
+  color: rgba($base-07,0.5);
+}
+p.license a {
+  color: rgba($brand-primary, 0.5);
 }
