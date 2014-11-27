@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Goodbye Internet Explorer 8"
+date:   2014-10-20 09:52:00
+description: Being now nearly two month post-launch we have enough data to justify dropping IE8 support.
+categories:
+- blog
+permalink: goodbye-ie8
+---
+
+The first commits for [our platform](https://github.com/dothiv/dothiv/) date back to April 2013. Back then Internet Explorer 7 had to be considered for [our click-counters](https://github.com/dothiv/clickcounter), and Internet Explorer 8 for the platform.
+
+When [Windows XP was discontinued this year](http://windows.microsoft.com/en-us/windows/end-support-help) I was happy to drop IE7 support but IE8 was still lingering around. Being now nearly two month post-launch we have enough data to justify dropping IE8 support, too.
+
+Below you'll find the browser statistics for September 2014 collected with Google Analytics on our sites [click4life.hiv](https://click4life.hiv/) and [tld.hiv](https://tld.hiv/).
+
+## Browser Statistics September 2014
+
+| Browser | click4life.hiv | tld.hiv |
+| --------|---------------:|--------:|
+| Firefox 32.0 | 13.99% | 12.20% |
+| Firefox 31.0 | 12.71% | 12.13% |
+| Chrome 37.0.2062.124 | 9.97% | 3.79% |
+| Chrome 37.0.2062.117 | 9.81% | 2.41% |
+| Chrome 36.0.1985.143 | 5.34% | 5.72% |
+| Safari 5.1.9 | 4.31% | 0.55% |
+| Chrome 37.0.2062.102 | 4.08% | 0.76% |
+| Safari 7.0.6 | 3.86% | 3.51% |
+| **Internet Explorer 11.0** | 3.38% | 4.48% |
+| Chrome 37.0.2062.122 | 3.15% | 1.17% |
+| Chrome 37.0.2062.103 | 1.93% | 4.89% |
+| Safari (in-app) (not set) | 1.93% | 2.27% |
+| Android Browser 4.0 | 1.64% | 2.55% |
+| **Internet Explorer 9.0** | 1.51% | 0.90% |
+| Safari 5.1 | 1.45% | 0.55% |
+| **Internet Explorer 10.0** | 1.32% | 1.52% |
+| Safari 8.0 | 1.06% | 0.62% |
+| Chrome 37.0.2062.120 | 1.03% | 9.30% |
+| **Internet Explorer 8.0** | 0.90% | 0.69% |
+| Chrome 36.0.1985.135 | 0.80% | 1.03% |
+| Chrome 37.0.2062.94 | 0.77% | 9.37% |
+| Safari 7.0 | 0.74% | 5.38% |
+| Chrome 1.5 | 0.64% | 0.83% |
+| Chrome 34.0.1847.137 | 0.61% | 0.62% |
+| Firefox 24.0 | 0.58% | 0.62% |
