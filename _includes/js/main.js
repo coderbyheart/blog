@@ -1,3 +1,6 @@
-jQuery(document).ready(function($){
-    // todo: jquery stuff should need to put here.
+$(function() {
+    $('h1').each(function(index, el) {
+        el = $(el);
+        el.html(el.text().replace('♥', '<span class="heart">♥</span>'));
+    });
 });
