@@ -16,7 +16,7 @@ Our friends from [SinnerSchrader](http://sinnerschrader.hiv/) built a script whi
 
 ![dotHIVify popup](/uploads/2014/11/dothivify.png)
 
-Head over to [mydotfor.hiv/dothivify](http://mydotfor.hiv/dothivify/) to download the script. They even built a configurator to adapt the script to your needs. Afterwards you need to add it to your websites source code, just before the `</body>` tag. 
+Head over to [mydotfor.hiv/dothivify](http://mydotfor.hiv/dothivify/) to download the script. They even built a configurator to adapt the script to your needs. Afterwards you need to add it to your websites source code, just before the `</body>` tag. Make sure to test it–as with all software their might be bugs. 
 
 As always with our projects at dotHIV the source code [is available at GitHub](https://github.com/dothiv/dothivify).
 
