@@ -3,10 +3,11 @@ title: Auslastung Januar 2012 Update
 author: Markus Tacker
 layout: post
 permalink: /auslastung-januar-2012-update
+lang: de
 categories:
-  - Technik
+  - auslastung
 tags:
-  - Auslastung
+  - projects
 ---
 <img src="http://farm8.staticflickr.com/7174/6619388255_0cee1e7008.jpg" alt="Auslastung" width="480" />
 

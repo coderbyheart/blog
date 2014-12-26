@@ -7,6 +7,7 @@ categories:
   - Snippets
 tags:
   - unicode
+  - utf8
 ---
 <table>
   <tr>

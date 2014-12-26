@@ -3,10 +3,13 @@ title: MacBook Funktionstasten unter Linux
 author: Markus Tacker
 layout: post
 permalink: /macbook-funktionstasten-unter-linux
+lang: de
 categories:
-  - Technik
+  - development
 tags:
   - ArchLinux
+  - MacOS
+  - MacBook
 ---
 Diese sind, zumindest unter Arch Linux, standardmäßig nur mittels FN+F<1..12> zum auslösen zu bewegen.
 

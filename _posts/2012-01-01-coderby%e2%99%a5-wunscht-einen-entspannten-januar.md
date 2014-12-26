@@ -3,10 +3,9 @@ title: coder::by(♥); wünscht einen entspannten Januar
 author: Markus Tacker
 layout: post
 permalink: /coderby%e2%99%a5-wunscht-einen-entspannten-januar
+lang: de
 categories:
-  - Uncategorized
-tags:
-  - wallpaper
+ - wallpaper
 ---
 Meinen Freunden, Kunden und Kollegen wünsche ich viel Erfolg im Jahr 2012!
 

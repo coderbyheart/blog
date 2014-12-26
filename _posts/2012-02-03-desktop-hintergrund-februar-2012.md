@@ -3,9 +3,8 @@ title: Desktop-Hintergrund Februar 2012
 author: Markus Tacker
 layout: post
 permalink: /desktop-hintergrund-februar-2012
+lang: de
 categories:
-  - Uncategorized
-tags:
   - wallpaper
 ---
 Jetzt wird es Zeit den [alten Desktop-Hintegrund][1] gegen diesen neuen auszutauschen &mdash; passend zum Wetter habe ich ein Foto einer [Schneeverwehung auf dem Feldberg][2] ausgewählt, das ich im Februar 2009 aufgenommen habe, und das ebenfalls bei so strahlend schönem Wetter wie heute.

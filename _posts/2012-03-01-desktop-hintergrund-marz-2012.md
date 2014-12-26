@@ -3,9 +3,8 @@ title: Desktop-Hintergrund März 2012
 author: Markus Tacker
 layout: post
 permalink: /desktop-hintergrund-marz-2012
+lang: de
 categories:
-  - Uncategorized
-tags:
   - wallpaper
 ---
 Passend zum grauen ersten März gibt es für diesen Monat ein Foto, dass ich in [Hamburg an der Außen-Alster][1] aufgenommen habe.

@@ -3,9 +3,8 @@ title: Desktop-Hintergrund Mai 2012
 author: Markus Tacker
 layout: post
 permalink: /desktop-hintergrund-mai-2012
+lang: de
 categories:
-  - Uncategorized
-tags:
   - wallpaper
 ---
 Auch im Mai wird deinen Desktop ein Foto aus Holland zieren, wenn du dieses Wallpaper verwendest: einen [sehr schönen Sonnenuntergang, aufgenommen in Woerden][1].

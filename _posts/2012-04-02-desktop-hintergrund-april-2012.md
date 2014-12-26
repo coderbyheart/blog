@@ -3,9 +3,8 @@ title: Desktop-Hintergrund April 2012
 author: Markus Tacker
 layout: post
 permalink: /desktop-hintergrund-april-2012
+lang: de
 categories:
-  - Uncategorized
-tags:
   - wallpaper
 ---
 Der April fängt schon deutlich schöner an, als der März, deswegen gibt es diesen Monat [ein Foto von saftigen Wiesen mit einem paar Schafe][1], dass ich in Holland aufgenommen habe. 

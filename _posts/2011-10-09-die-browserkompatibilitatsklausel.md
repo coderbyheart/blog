@@ -4,7 +4,7 @@ author: Markus Tacker
 layout: post
 permalink: /die-browserkompatibilitatsklausel
 categories:
-  - Technik
+  - freelancing
 ---
 Wenn man in der glücklichen Situation ist, ein Angebot zu schreiben, ist dessen Basis in der Regel auch eine möglichst genaue Beschreibung über den Umfang des Auftrags, im Allgemeinen *Pflichtenheft* genannt.
 

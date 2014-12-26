@@ -4,7 +4,7 @@ author: Markus Tacker
 layout: post
 permalink: /speckyboy-com-responsive-design-is-not-about-screen-sizes-any-more
 categories:
-  - Technik
+  - development
 ---
 [Sehr guter Artikel][1] darüber, das die Entwicklung einer guten mobilen Website nicht nur mit CSS-Media-Queries erreicht werden kann.
 

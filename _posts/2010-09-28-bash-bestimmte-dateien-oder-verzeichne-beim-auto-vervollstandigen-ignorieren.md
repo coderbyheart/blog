@@ -3,8 +3,9 @@ title: 'Bash: Bestimmte Dateien oder Verzeichnisse beim Auto-Vervollständigen i
 author: Markus Tacker
 layout: post
 permalink: /bash-bestimmte-dateien-oder-verzeichne-beim-auto-vervollstandigen-ignorieren
+lang: de
 categories:
-  - Technik
+  - development
 tags:
   - bash
   - svn

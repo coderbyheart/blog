@@ -3,10 +3,11 @@ title: Relations in Linked Data
 author: Markus Tacker
 layout: post
 permalink: /relations-in-linked-data
-lang:
-  - en-us
+lang: de
 categories:
-  - Technik
+  - development
+tags:
+  - data
 ---
 *This is the translation of [this german blog entry][1].*
 

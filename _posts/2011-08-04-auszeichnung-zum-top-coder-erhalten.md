@@ -3,8 +3,9 @@ title: Auszeichnung zum Top Coder erhalten
 author: Markus Tacker
 layout: post
 permalink: /auszeichnung-zum-top-coder-erhalten
+lang: de
 categories:
-  - Kurioses
+  - work
 ---
 [<img src="http://farm7.static.flickr.com/6133/6004948638_5d7b2d469e_m.jpg" alt="Markus Tacker, Gewinner beim Top Coder Gewinnspiel der Mayflower GmbH" class="alignright" />][1]Beim [Top Coder Gewinnspiel der Mayflower GmbH][2] habe ich mit meiner Einreichung [den ersten Preis gewonnen][3]: ein iPad 2.
 

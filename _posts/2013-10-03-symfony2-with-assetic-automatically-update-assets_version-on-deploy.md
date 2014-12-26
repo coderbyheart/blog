@@ -6,9 +6,10 @@ excerpt: |
 layout: post
 permalink: /symfony2-with-assetic-automatically-update-assets_version-on-deploy
 categories:
-  - Snippets
+  - development
 tags:
   - Symfony2
+  - Snippets
 ---
 If you&#8217;re using [assetic][1] to manage your assets in your Symfony2 project you have probably already wondered if there is a way to update the `assets_version` parameter automatically with every deploy.
 

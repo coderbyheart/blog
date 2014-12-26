@@ -3,8 +3,12 @@ title: Softwerkskammer RheinMain
 author: Markus Tacker
 layout: post
 permalink: /softwerkskammer-rheinmain
+lang: de
 categories:
-  - Uncategorized
+  - usergroups
+tags:
+  - software-craftsmenship
+  - softwerkskammer
 ---
 [<img class="noborder alignright size-thumbnail wp-image-223" title="Softwerkskammer - Software Craftsmanship Community" src="/uploads/2012/02/b401d35b2dd7156e8e0de85fa90e35c0-150x150.jpg" alt="Softwerkskammer - Software Craftsmanship Community" width="150" height="150" />][1]
 

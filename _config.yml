@@ -1,5 +1,6 @@
 baseurl:
 url: http://blog.cto.hiv
+lang: en
 
 harmony:
   name: coder::by(♥); // blog

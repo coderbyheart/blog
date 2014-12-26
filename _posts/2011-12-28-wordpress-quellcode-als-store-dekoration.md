@@ -3,10 +3,12 @@ title: WordPress-Quellcode als Store-Dekoration
 author: Markus Tacker
 layout: post
 permalink: /wordpress-quellcode-als-store-dekoration
+lang: de
 categories:
   - Kurioses
 tags:
   - php
+  - wordpress
 ---
 [<img class="alignnone" src="http://farm8.staticflickr.com/7164/6583562615_f3495a6ae5_b.jpg" alt="WordPress Code Sankthorst" width="480" />][1]
 

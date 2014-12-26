@@ -3,8 +3,12 @@ title: Default-Werte für Methoden-Argumente sollten null sein
 author: Markus Tacker
 layout: post
 permalink: /default-werte-fur-methoden-argumente-sollten-null-sein
+lang: de
 categories:
-  - Technik
+  - development
+tags:
+  - php
+  - code-quality
 ---
 Oft genug sieht man Methodendefinitionen mit Standardwerten für Argumente, da viele Programmiersprachen das Überladen von Methoden, wie z.B. in Java, nicht unterstützen.
 
@@ -20,11 +24,12 @@ Eigentlich meint man aber
 Und genau hier liegt das Problem: das Übernehmen des Standardwertes aus der Definition führt dazu, dass *bei einer Änderung des Standardwertes* sich diese Änderung nicht auf den Teil des Codes auswirkt, in dem die Methode aufgerufen wird &mdash; obwohl das eigentlich das Verhalten ist, dass der Verwender erwartet hätte.
 
 Deswegen sollten Standardwerte immer mit `null` definiert werden:  
-`function connect($host, $port = null, $timeout = null) {<br />
-&nbsp;&nbsp;&nbsp;&nbsp;if ($port === null) $port = 1234;<br />
-&nbsp;&nbsp;&nbsp;&nbsp;if ($timeout === null) $timeout = 10;<br />
-&nbsp;&nbsp;&nbsp;&nbsp;...<br />
-}`
+
+    function connect($host, $port = null, $timeout = null) { 
+        if ($port === null) $port = 1234; 
+        if ($timeout === null) $timeout = 10; 
+        ... 
+    }
 
 So muss der Aufrufer Standardwerten nur Beachtung schenken, wenn er sie explizit überschreiben will. Ansonsten kann er einfach `null` übergeben:  
 `connect('server', null, 10);`

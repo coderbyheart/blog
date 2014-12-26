@@ -3,6 +3,7 @@ title: Darstellung von git diff verbessern
 author: Markus Tacker
 layout: post
 permalink: /darstellung-von-git-diff-verbessern
+lang: de
 categories:
   - Snippets
 tags:

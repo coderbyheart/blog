@@ -3,8 +3,10 @@ title: Usergroups RheinMain
 author: Markus Tacker
 layout: post
 permalink: /usergroups-rheinmain
+lang:
+  - de
 categories:
-  - Technik
+  - usergroups
 ---
 [<img class="alignnone size-full wp-image-384" alt="visual" src="/uploads/2013/01/visual.jpg" width="478" />][1]
 

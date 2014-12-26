@@ -3,10 +3,13 @@ title: Ant Build Commons von qafoo
 author: Markus Tacker
 layout: post
 permalink: /ant-build-commons-von-qafoo
+lang: de
 categories:
-  - Technik
+  - development
 tags:
   - php
+  - continuous-integration
+  - testing
 ---
 Die [qafoo GmbH][1] aus Gelsenkirchen, ein Zusammenschluss von [vier deutschen PHP-Experten][2] liefert mit den [Ant Build Commons][3] einen Standard-Satz an Build-Task für Ant, die alle wichtigen Aufgaben zum Prüfen, Testen und Veröffentlichen in PHP-basierten Projekten abdecken. 
 

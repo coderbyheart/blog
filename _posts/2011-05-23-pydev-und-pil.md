@@ -3,8 +3,9 @@ title: PyDev und PIL
 author: Markus Tacker
 layout: post
 permalink: /pydev-und-pil
+lang: de
 categories:
-  - Technik
+  - development
 tags:
   - eclipse
   - pydev

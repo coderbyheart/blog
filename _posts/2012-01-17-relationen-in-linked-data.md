@@ -4,9 +4,13 @@ author: Markus Tacker
 layout: post
 permalink: /relationen-in-linked-data
 categories:
-  - Technik
+  - development
+tags:
+  - data
 ---
-<em lang="en-us">An englisch translation of this article can be found <a href="http://coderbyheart.de/blog/relations-in-linked-data">here</a>.</p> <p>
+<p><em lang="en-us">An englisch translation of this article can be found <a href="http://coderbyheart.de/blog/relations-in-linked-data">here</a>.</em></p> 
+
+<p>
   Das Thema </em><em><a href="http://linkeddata.org/">Linked Data</a></em> geistert ja nun schon eine Weile durch die Branche, noch hat sich besonders im JSON-Umfeld noch kein wirklicher Standard etabliert. <a href="http://json-ld.org/">JSON-LD</a> versucht dieser Standard zu werden und hat auch schon <a href="http://json-ld.org/spec/latest/json-ld-syntax/">sehr ausführlich</a> dessen Syntax beschrieben.
 </p>
 

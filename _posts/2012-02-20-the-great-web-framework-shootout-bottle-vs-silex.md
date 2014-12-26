@@ -3,8 +3,9 @@ title: 'The Great Web Framework Shootout: Bottle vs. Silex'
 author: Markus Tacker
 layout: post
 permalink: /the-great-web-framework-shootout-bottle-vs-silex
+lang: de
 categories:
-  - Technik
+  - development
 tags:
   - bottle
   - framework

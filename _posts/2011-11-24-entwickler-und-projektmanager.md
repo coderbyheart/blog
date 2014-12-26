@@ -3,8 +3,9 @@ title: Entwickler und Projektmanager
 author: Markus Tacker
 layout: post
 permalink: /entwickler-und-projektmanager
+lang: de
 categories:
-  - Kurioses
+  - work
 ---
 [<img src="http://farm8.staticflickr.com/7031/6391475553_f4ba79e367_b.jpg" alt="Entwickler und Projektmanager" width="475" />][1]Diese zwei Kollegen stehen immer auf meinem Schreibtisch bei meinem aktuellen Arbeitgeber. Vor ein paar Monaten standen sie bei <a href="http://www.s-v.de/" rel="friend met coworker">Scholz&Volkmer</a> und als ich mit einem Kollegen darüber sprach, ist ein interessantes Bildnis entstanden.
 
