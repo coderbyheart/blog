@@ -40,3 +40,7 @@ There is one last thing: collaboration on data also requires you to let go in te
 I think we all could use a *github for data*. A platform that is neutral in terms of the content it manages but makes clear decisions on how the collaboration is done.
 
 I’ll keep on looking!
+
+----
+
+I did [a followup](http://blog.cto.hiv/just-edit-it/) a few weeks later where I explained a little, what I think when talking about the *Github for data*.
