@@ -3,6 +3,7 @@ layout: post
 title:  "Office Hours"
 date:   2015-01-02 15:00:00
 description: I'll offer free bimonthly office hours starting January 2015.
+excerpt: I'll offer free bimonthly office hours starting January 2015.
 categories:
 - startups
 permalink: office-hours
