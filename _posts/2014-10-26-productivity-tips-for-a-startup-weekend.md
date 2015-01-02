@@ -9,8 +9,6 @@ categories:
 tags:
   - startup-weekend
 ---
-[<img src="http://farm8.staticflickr.com/7099/7319531446_4a0c7ffde7_c.jpg" width="480" />][1]
-
 So, you are attending a startup weekend? You will be crammed in a room with strangers to collaborate on an idea-maybe even yours? I have some advice for you to improve your output during this 54 hours.
 
 Use [Google Drive](https://drive.google.com/) to work on concept documents, texts, spreadsheets for your business plan and the presentation. Everyone can work on every document at the same time and all collaborators will see updates in real time. Don't even try to work with files during the weekend.
