@@ -2,7 +2,7 @@
 layout: post
 title:  "Encrypt Login Links"
 date:   2015-01-03 16:40:00
-excerpt: Encrypt login links with the users public PGP key to adds a simple but effective layer of security with only a small usability impact.
+excerpt: Encrypt login links with the users public PGP key to add a simple but effective layer of security with only a small usability impact.
 categories:
 - technology
 tags:
