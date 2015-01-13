@@ -16,7 +16,7 @@ When [Windows XP was discontinued this year](http://windows.microsoft.com/en-us/
 
 Below you'll find the browser statistics for September 2014 collected with Google Analytics on our sites [click4life.hiv](https://click4life.hiv/) and [tld.hiv](https://tld.hiv/).
 
-## Browser Statistics September 2014
+## Browser Statistics September 2014 (Top 25 browsers)
 
 | Browser | click4life.hiv | tld.hiv |
 | --------|---------------:|--------:|
