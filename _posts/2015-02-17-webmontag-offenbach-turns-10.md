@@ -9,8 +9,6 @@ categories:
 permalink: webmontag-offenbach-turns-10
 ---
 
-# WEMO♥F turns 10
-
 On the next Monday, February 23rd 2015, I'll be at a run-down place that used to be a super market and hosting the 10th Webmontag Offenbach.
 
 ![Webmontag Offenbach](http://farm6.staticflickr.com/5330/9352013973_1d98f9506d_b.jpg)
