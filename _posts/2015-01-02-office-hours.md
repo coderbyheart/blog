@@ -19,8 +19,8 @@ Email me at [m@cto.hiv][2] with a short intro and a link to your LinkedIn or XIN
 
  1. Thursday, Jan 22nd 2015: taken ([How to write a CTO job posting](/how-to-find-a-cto/))
  2. Thursday, Feb 5th 2015, taken (App-Feedback for [talkREAL](/uploads/2015/01/talkREAL_App_PitchDeck_Tech_Short_vcR10.pdf))
- 3. Thursday, Feb 19th 2015, 1pm-2pm: **available**
- 4. Thursday, Mar 3rd 2015, 1pm-2pm: **available**
+ 3. Thursday, Mar 3rd 2015, 1pm-2pm: **available**
+ 4. Thursday, Mar 19th 2015, 1pm-2pm: **available**
 
 There are no strings attached.
 
