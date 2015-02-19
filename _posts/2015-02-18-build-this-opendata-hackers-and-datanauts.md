@@ -35,6 +35,6 @@ And those are just two possible datasource. For me I'd like to see visualization
  
 This would enable me to pan around a map and find places that would fit my preferred living conditions.
 
-Feel free to submit it to the [TEDxRheinMain Datanauts Contest](http://datanauts.tedxrheinmain.de/), I won't because I'd be force to comply to their [overly one-sided terms and conditions](https://gist.github.com/coderbyheart/344fbd403cfb536d530f).
+Feel free to submit it to the [TEDxRheinMain Datanauts Contest](http://datanauts.tedxrheinmain.de/), I won't because I'd be forced to comply to their [overly one-sided terms and conditions](https://gist.github.com/coderbyheart/344fbd403cfb536d530f).
 
 Also there is the [Open Data Hackathon](http://www.meetup.com/OKLabFfm/events/219670248/) this Saturday at the best coworking space around: [Die Zentrale](http://die-zentrale-ffm.de/). A perfect event to getting this started …
