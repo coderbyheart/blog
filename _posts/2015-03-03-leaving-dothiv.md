@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leaving dotHIV and looking to join a new team"
+title:  "Leaving dotHIV and looking for a new team"
 date:   2015-03-03 17:00:00
 description: From April 1st 2015 I'm available to join a new team where I can apply my craftsmanship to software, my leadership skills to the organization and my wit to the daily standup.
 excerpt: From April 1st 2015 I'm available to join a new team where I can apply my craftsmanship to software, my leadership skills to the organization and my wit to the daily standup.

@@ -228,6 +228,13 @@ header.main-header {
       border-bottom-color: inherit;
     }
   }
+
+  ul li:before {
+      content: "· ";
+  }
+  ul li:first-child:before {
+    content: "";
+  }
 }
 
 footer.main-footer {
@@ -304,7 +311,7 @@ div.page-content {
       li {
         @include font-size(16px);
         line-height: 1.5;
-        background-position: 0 7px;
+        background-position: 0 9px;
       }
     }
   }
@@ -325,7 +332,7 @@ div.page-content {
       @include font-size(16px);
       li {
         line-height: 1.5;
-        background-position: 0 7px;
+        background-position: 0 9px;
       }
     }
   }
