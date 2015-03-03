@@ -39,6 +39,7 @@ And while we are at it … these are some of the questions we'll talk about. The
 
 Learn more about me at these sites and if you think I could be a match for your team, [talk to me](mailto:m@cto.hiv).
 
- - [XING profile](https://www.xing.com/profile/Markus_Tacker)
  - [LinkedIn profile](https://www.linkedin.com/in/markustacker)
  - [GitHub profile](https://github.com/coderbyheart)
+ - [Angel.co profile](https://angel.co/coderbyheart)
+ - [XING profile](https://www.xing.com/profile/Markus_Tacker)
