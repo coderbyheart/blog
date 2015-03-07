@@ -3,7 +3,7 @@ layout: post
 title:  "Backup your business: Advice for non-technical co-founders "
 date:   2015-03-07 22:30:00
 description: How to make sure you never loose the source code of your business.
-excerpt: Software is an amazing thing: a few thousand lines of text can power an entire business. One thing should be obvious: make sure you never loose the source code of your business. This is something your technical co-founder will take care of from day one. And that creates a problem that I want to shed some light on.
+excerpt: How to make sure you never loose the source code of your business.
 categories:
 - startups
 - backup
