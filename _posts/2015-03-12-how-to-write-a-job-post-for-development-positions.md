@@ -30,6 +30,7 @@ Below I've compile a list of good examples for job posts and hiring sites:
  - [Goodgame Studios](http://www.goodgamestudios.com/de/karriere/karriere-bei-goodgame/) is another well executed example.
 
 I know those examples are big and take a lot effort to build but you can start small: 
+
 - [DeinBus](http://mach.deinbus.de/besser/) looking for a backend developer *(I wrote this one myself (in german), so its natural to include it here.)*
 - [Vaamo](http://codecraft.vaamo.de/jobs/) finds a good balance between standing out and keeping the job page lean.
 - [Zenmate](https://zenmate.com/jobs/) has a nice one-pager.
