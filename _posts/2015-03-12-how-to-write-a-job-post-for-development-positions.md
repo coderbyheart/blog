@@ -24,17 +24,23 @@ And don't forget to make sure that every job posting has a unique page with a sh
 
 Below I've compile a list of good examples for job posts and hiring sites:
 
- - [Buffer](https://bufferapp.com/journey/back-end-developer) has become a great example for a company built on culture so it's no wonder they have outstanding job postings.
- - [Expensify](http://we.are.expensify.com/) goes great lengths to give you an insight in how awesome their team is.
- - [Blizzard](http://eu.blizzard.com/de-de/company/careers/culture.html) is known for their great company culture and they are doing a fantastic job telling you about it.
- - [Goodgame Studios](http://www.goodgamestudios.com/de/karriere/karriere-bei-goodgame/) is another well executed example.
+ - [Mindvalley](http://www.mindvalley.com/careers) is pure porn when it comes to company job websites
+ - [Supercell](http://supercell.com/en/careers/) is technically impressive, which conveys their work
+ - [Buffer](https://bufferapp.com/journey/back-end-developer) has become a great example for a company built on culture so it's no wonder they have outstanding job postings
+ - [Expensify](http://we.are.expensify.com/) goes great lengths to give you an insight in how awesome their team is
+ - [Blizzard](http://eu.blizzard.com/de-de/company/careers/culture.html) is known for their great company culture and they are doing a fantastic job telling you about it
+ - [Goodgame Studios](http://www.goodgamestudios.com/de/karriere/karriere-bei-goodgame/) is another well executed example
 
 I know those examples are big and take a lot effort to build but you can start small: 
 
 - [DeinBus](http://mach.deinbus.de/besser/) looking for a backend developer *(I wrote this one myself (in german), so its natural to include it here.)*
 - [Vaamo](http://codecraft.vaamo.de/jobs/) finds a good balance between standing out and keeping the job page lean.
-- [Zenmate](https://zenmate.com/jobs/) has a nice one-pager.
-- [Quäntchen und Glück](https://www.qundg.de/jobs/) are a little heavy on the text side, but what they are writing is what makes them special.
+
+And progress from there by fleshing out a little:
+
+- [Zenmate](https://zenmate.com/jobs/) has a nice one-pager
+- [Quäntchen und Glück](https://www.qundg.de/jobs/) are a little heavy on the text side, but what they are writing is what makes them special
+- [GitHub](https://github.com/about/jobs) finds a good balance between simplicity and emotionality
 
 I hope this helps you in building a great job posting.  
 But don't forget that this is only a small part of the things you have to do to attract great talent.
