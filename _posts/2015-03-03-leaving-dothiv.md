@@ -2,8 +2,9 @@
 layout: post
 title:  "Leaving dotHIV and looking for a new team"
 date:   2015-03-03 17:00:00
-description: From April 1st 2015 I'm available to join a new team where I can apply my craftsmanship to software, my leadership skills to the organization and my wit to the daily standup.
-excerpt: From April 1st 2015 I'm available to join a new team where I can apply my craftsmanship to software, my leadership skills to the organization and my wit to the daily standup.
+excerpt: > #
+  From April 1st 2015 I'm available to join a new team where I can apply my craftsmanship 
+  to software, my leadership skills to the organization and my wit to the daily stand-up.
 categories:
 - work
 permalink: leaving-dothiv
@@ -13,7 +14,7 @@ permalink: leaving-dothiv
 
 Over 1,500 working hours will have been logged to my time-tracking tool when I push the last commit to [our repository](https://github.com/dothiv) end of March 2015. Those 1,500 hours were in part the most fulfilling time I spent working I ever–or are you able to claim to be writing code for something that literally will save people's lives? So it comes with a little sadness that we won't be able to work on [dotHIV](https://click4life.hiv/) how we used to …
 
-This means: from April 1st 2015 I'm available to join a new team where I can apply my craftsmanship to software, my leadership skills to the organization and my wit to the daily standup.
+This means: from April 1st 2015 I'm available to join a new team where I can apply my craftsmanship to software, my leadership skills to the organization and my wit to the daily stand-up.
 
 I used to work as a freelancer, but having been part of an amazing team provides something that is missing if you are a keyboard for hire: relationships and colleagues–which is equally important to me as being able to work remotely from a [coworking space](http://die-zentrale-ffm.de/).
 

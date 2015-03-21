@@ -2,7 +2,6 @@
 layout: post
 title:  "Build this, OpenData Hackers and Datanauts"
 date:   2015-02-18 13:00:00
-description: OpenData projects must be useful not just interesting, so here is my idea
 excerpt: OpenData projects must be useful not just interesting, so here is my idea
 categories:
 - opendata
