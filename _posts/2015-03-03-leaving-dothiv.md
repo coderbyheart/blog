@@ -7,6 +7,7 @@ excerpt: > #
   to software, my leadership skills to the organization and my wit to the daily stand-up.
 categories:
 - work
+photo: https://farm8.staticflickr.com/7574/15738269189_3e154ab0d3_b.jpg
 permalink: leaving-dothiv
 ---
 
