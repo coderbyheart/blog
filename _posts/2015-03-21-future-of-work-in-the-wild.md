@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  #futureofwork in the wild
+title:  \#futureofwork in the wild
 date:   2015-03-21 15:00:00
 excerpt: > #
   An April 2nd 2015 I'll be giving a lightning talk to show some examples of organizations
