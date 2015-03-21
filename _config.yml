@@ -5,6 +5,7 @@ lang: en
 harmony:
   name: coder::by(♥); // blog
   description: by Markus Tacker, a CTO from Offenbach, Germany.
+  photo: https://farm8.staticflickr.com/7336/13376420184_1f7c386fd7_n.jpg
   meta_description: > #
     Blog by Markus Tacker, a CTO from Offenbach, Germany.
     I ♥ to code. Mostly backends. But I'll hack on the source code of your organization, too.

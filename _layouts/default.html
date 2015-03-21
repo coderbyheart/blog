@@ -28,10 +28,10 @@
         <!-- Twitter cards support -->
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="coderbyheart">
-        <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.harmony.name }}{% else %}{{ site.harmony.name }}{% endif %}">
+        <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.harmony.name }}{% endif %}">
         <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.harmony.meta_description }}{% endif %}">
         <meta name="twitter:creator" content="coderbyheart">
-        <meta name="twitter:image:src" content="https://farm8.staticflickr.com/7336/13376420184_1f7c386fd7_n.jpg">
+        <meta name="twitter:image:src" content="{% if page.photo %}{{ page.photo }}{% else %}{{ site.harmony.photo }}{% endif %}">
     </head>
     <body class="{{ site.harmony.basetheme }}">
         <header class="main-header">
