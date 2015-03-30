@@ -2,8 +2,10 @@
 layout: post
 title:  "How to write a job post for development positions"
 date:   2015-03-12 16:30:00
-description: An important role in your search for developers is your job page. Don't miss the chance to impress a curious developer because every candidate will browse your website to look up your job postings.
-excerpt: An important role in your search for developers is your job page. Don't miss the chance to impress a curious developer because every candidate will browse your website to look up your job postings.
+excerpt: > #
+  An important role in your search for developers is your job page. 
+  Don't miss the chance to impress a curious developer because every candidate 
+  will browse your website to look up your job postings.
 categories:
 - startups
 - jobs

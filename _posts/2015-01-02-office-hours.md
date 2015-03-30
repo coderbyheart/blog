@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Office Hours"
+title:  "Office hours"
 date:   2015-01-02 15:00:00
-description: I'll offer free bimonthly office hours starting January 2015.
 excerpt: I'll offer free bimonthly office hours starting January 2015.
 categories:
 - startups
+- office-hours
 permalink: office-hours
 ---
 
@@ -20,9 +20,11 @@ Email me at [m@cto.hiv][2] with a short intro and a link to your LinkedIn or XIN
  1. Thursday, Jan 22nd 2015: taken ([How to write a CTO job posting](/how-to-find-a-cto/))
  2. Thursday, Feb 5th 2015, taken (App-Feedback for [talkREAL](/uploads/2015/01/talkREAL_App_PitchDeck_Tech_Short_vcR10.pdf))
  3. Thursday, Mar 5th 2015, 1pm-2pm: ([Backup your business: Advice for non-technical co-founders](/backup-your-business/))
- 4. Thursday, Mar 19th 2015, 1pm-2pm: **available**
+ 4. Thursday, Mar 19th 2015, 1pm-2pm: ([BASISREBELL](https://basisrebell.com/))
 
 There are no strings attached.
+
+*Update March 22nd 2015:* I've discontinued the office hours. Learn why, [here](/office-hours-discontinued).
 
 [1]: http://rheinmain.startupweekend.org/
 [2]: mailto:m@cto.hiv?subject=Office+Hours

@@ -2,8 +2,9 @@
 layout: post
 title:  "How to find a CTO"
 date:   2015-01-25 18:00:00
-description: A fews weeks ago I announced that I am holding free bi-monthly CTO office hours and the first one I did revolved around the question “How to find a CTO?”. In this post I aim to summarize the advice I gave.
-excerpt: A fews weeks ago I announced that I am holding free bi-monthly CTO office hours and the first one I did revolved around the question “How to find a CTO?”. In this post I aim to summarize the advice I gave.
+excerpt: > #
+  A fews weeks ago I announced that I am holding free bi-monthly CTO office hours and the first one I did revolved 
+  around the question “How to find a CTO?”. In this post I aim to summarize the advice I gave.
 categories:
 - startups
 - jobs

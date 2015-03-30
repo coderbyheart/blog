@@ -2,7 +2,7 @@
 layout: post
 title:  "Goodbye Internet Explorer 8"
 date:   2014-10-20 09:52:00
-description: Being now nearly two month post-launch we have enough data to justify dropping IE8 support.
+excerpt: Being now nearly two month post-launch we have enough data to justify dropping IE8 support.
 categories:
 - development
 tags:

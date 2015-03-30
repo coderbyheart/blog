@@ -2,7 +2,6 @@
 layout: post
 title:  "Backup your business: Advice for non-technical co-founders"
 date:   2015-03-07 22:30:00
-description: How to make sure you never lose the source code of your business.
 excerpt: How to make sure you never lose the source code of your business.
 categories:
 - startups
