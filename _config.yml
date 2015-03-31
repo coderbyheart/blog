@@ -14,22 +14,22 @@ harmony:
   author:
     name: Markus Tacker
     email: m@cto.hiv
-    url: http://cto.hiv/en
+    url: https://cto.hiv/
   social:
     github: coderbyheart
     twitter: coderbyheart
 # disqus handle, leave blank to disable
 disqus: coderbyheart
 
-# Conversion / Build settings 
+# Conversion / Build settings
 markdown:    kramdown
 # This is how you put pygments config in jekyll 2.0 instead of pygments: true
-highlighter: pygments 
+highlighter: pygments
 
 # Permalinks
 permalink:        pretty
 
-exclude: 
+exclude:
   - CNAME
   - Gemfile
   - Rakefile
