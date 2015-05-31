@@ -34,9 +34,9 @@ Teams are tasked to deliver:
  * a written mission statement (max. 10 words) 
  * an elevator pitch (max. 1000 characters)
  * written assumptions about their business and evaluation plan
- * written evaluation of those assumptions
- * business plan presentation (max. 3 slides)
- * pitch slidedeck
+ * a written evaluation of those assumptions
+ * a business plan presentation (max. 3 slides)
+ * a pitch slidedeck
 
 ## Schedule
 
