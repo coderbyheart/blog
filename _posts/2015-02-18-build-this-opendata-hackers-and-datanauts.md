@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Build this, OpenData Hackers and Datanauts"
-date:   2015-02-18 13:00:00
+title:  "Build this, OpenData Hackers and Datanauts [Updated]"
+date:   2015-05-31 13:00:00
 excerpt: OpenData projects must be useful not just interesting, so here is my idea
 categories:
 - opendata
@@ -37,3 +37,11 @@ This would enable me to pan around a map and find places that would fit my prefe
 Feel free to submit it to the [TEDxRheinMain Datanauts Contest](http://datanauts.tedxrheinmain.de/), I won't because I'd be forced to comply to their [overly one-sided terms and conditions](https://gist.github.com/coderbyheart/344fbd403cfb536d530f).
 
 Also there is the [Open Data Hackathon](http://www.meetup.com/OKLabFfm/events/219670248/) this Saturday at the best coworking space around: [Die Zentrale](http://die-zentrale-ffm.de/). A perfect event to getting this started …
+
+## **Update** 
+
+One of the 10 winning ideas of the event is [*settlement spotter*](http://datanauts.tedxrheinmain.de/contest-submissions/settlement-spotter/)–which is exactly what I asked them to build!
+
+> Use big data and feedback from various independent sources, leverage federal and public sources, open sources from the industry to create a map that will allow a user to draw a picture. Create an online environment to help an individual decide and plan his move to a place where his living requirements are met perfectly.
+
+I'm looking forward to seeing this project come to life.
