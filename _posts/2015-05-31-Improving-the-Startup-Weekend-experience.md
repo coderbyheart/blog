@@ -1,8 +1,8 @@
 ---
-title: Improving the Startup Weekend schedule
+title: Improving the Startup Weekend Experience
 author: Markus Tacker
 layout: post
-permalink: /improving-the-startup-weekend-schedule
+permalink: /improving-the-startup-weekend-experience
 lang: en
 excerpt: > #
   In my opinion the default shedule for the weekend is not educating the teams enough to focus on what matters
@@ -15,22 +15,26 @@ tags:
   - startup-weekend
 ---
 
-Improving the StartupWeekend Experience
+I've been organizing and attending more then a dozen events in the format of a Startup Weekend in the past three years. Being part of the organizing team behind [this year's Founders-Hub Startup Weekend](http://startupweekendrheinmain.de/) gives me the opportunity to improve the experience you'll have when attending this exciting event.
 
-I've been organizing and attending more then a dozend events in the format of a Startup Weekend in the past three years. Being part of the organizing team behind [this years' Founders-Hub Startup Weekend](http://startupweekendrheinmain.de/) gives me the opportunity to improve the experience you'll have when attending this exciting event.
-
-In my opinion the [default shedule](https://gist.github.com/coderbyheart/fda7f88914752c8a7637) for the weekend as proposed by the [Startup Weekend Organization](http://startupweekend.org/) is not educating the teams enough to focus on what matters in those 54 hours: *validate their assumptions* about the business idea and *prepare a presentation*.
-
-For this year I've created a new shedule which includes more concrete deliverables and divides the weekend into distinct slots. 
-
-The goal is to prepare and equip every team with the material and knowledge they need to talk to investors and new team members because this is what they will be doing after the weekend.
+In my opinion the [default shedule](https://gist.github.com/coderbyheart/fda7f88914752c8a7637) for the weekend as proposed by the up.com, the Startup Weekend Organization, is not educating the teams enough to focus on what matters in those 54 hours: *validate their assumptions* about the business idea and *prepare a presentation*. For this year I've created a new shedule which includes more concrete deliverables and divides the weekend into distinct slots which put the focus on them. The goal is to prepare and equip every team with the material and knowledge they need to talk to investors and new team members–because this is what they will be doing after the weekend.
 
 The new schedule at a glance:
 
  * The *Friday* schedule is kept unchanged. The difference is that once the teams have formed their task is to **deliver their mission statement and an elevator pitch**.
- * The task for *Saturday* morning is to **define three assumptions** about the business, e.g. why this idea will succeed, who are the customers, what is the market. The team then uses the time after lunch until dinner to  **evaluate the assumptions** by going into the city to conduct interviews.
- * *Sunday* is dedicated to building a compelling pitch. This can be in the form of a presentation  or a prototype. It is important to focus on every aspect of the idea (business, realization, team, uniqueness, and wit)!
- * This also includes more clearly defined slots for the presence of the coaches.
+ * The task for *Saturday* morning is to **define three assumptions** about the business, e.g. why this idea will succeed, who are the customers, what is the market. The team then uses the time after lunch until dinner to  **evaluate the assumptions** by going into the city to conduct interviews and finding their first real customers.
+ * *Sunday* is dedicated to **building a compelling pitch**. This can be in the form of a presentation  or a prototype. It is important to focus on every aspect of the idea: business, realization, team, uniqueness, and wit!
+ * The schedule also includes more clearly defined slots for the presence of the coaches.
+
+Teasm are tasked to deliver:
+ * a written mission statement (max. 10 words) 
+ * an elevator pitch (max. 1000 characters)
+ * written assumptions about their business and evaluation plan
+ * written evaluation of those assumptions
+ * business plan presentation (max. 3 slides)
+ * pitch slidedeck
+
+## Schedule
 
 | Time | Activity | Task | Coaches |
 |------:|---|---|---|
@@ -39,10 +43,10 @@ The new schedule at a glance:
 | 1830 | Registration | - | - |
 | 1900 | Dinner | - | - |
 | 1930 | Welcome & Pitches Start | Optionally line up to give your pitch | Present for introduction |
-| 2000 | Pitches | " | - |
-| 2030 | Voting | Attendees vote for the top pitches | - |
-| 2100 | Form Teams | Find your team for the weekend | - |
-| 2130 | Form Teams | " | - |
+| 2000 | Pitches | " | Present |
+| 2030 | Voting | Attendees vote for the top pitches | Present |
+| 2100 | Form Teams | Find your team for the weekend | Coaches briefing |
+| 2130 | Form Teams | " | " |
 | 2200 | **Mission Statement** | Begin to work on your idea. | Assist team building, mission statement |
 | 2230 | **Elevator Pitch** | " | Present |
 | 2300 | **Deliver** | Written mission statement (max. 10 words) and elevator pitch (max. 1000 characters). | Coaches leave |
