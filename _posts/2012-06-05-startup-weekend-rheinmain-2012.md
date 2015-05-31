@@ -4,10 +4,9 @@ author: Markus Tacker
 layout: post
 permalink: /startup-weekend-rheinmain-2012
 lang: de
-categories:
-  - usergroups
 tags:
-  - rheinmainrocks
+  - usergroups
+  - startups
   - startup-weekend
 ---
 [<img src="http://farm8.staticflickr.com/7099/7319531446_4a0c7ffde7_c.jpg" width="480" />][1]
