@@ -3,6 +3,7 @@ title: Improving the Startup Weekend Experience
 author: Markus Tacker
 layout: post
 permalink: /improving-the-startup-weekend-experience
+date:   2015-05-31 17:50:00
 lang: en
 excerpt: > #
   In my opinion the default shedule for the weekend is not educating the teams enough to focus on what matters
@@ -25,7 +26,6 @@ In my opinion the [default shedule](https://gist.github.com/coderbyheart/fda7f88
  * The task for *Saturday* morning is to **define three assumptions** about the business, e.g. why this idea will succeed, who are the customers, what is the market. The team then uses the time after lunch until dinner to  **evaluate the assumptions** by going into the city to conduct interviews and finding their first real customers.
  * *Sunday* is dedicated to **building a compelling pitch**. This can be in the form of a presentation  or a prototype. It is important to focus on every aspect of the idea: business, realization, team, uniqueness, and wit!
  * The schedule also includes more clearly defined slots for the presence of the coaches.
- * 
 
 ## Deliverables
 
