@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How to write a job post for development positions"
-date:   2015-03-12 16:30:00
+title:  "How to write a job post for development positions [Update]"
+date:   2015-05-31 14:00:00
 excerpt: > #
   An important role in your search for developers is your job page. 
   Don't miss the chance to impress a curious developer because every candidate 
@@ -46,3 +46,7 @@ And progress from there by fleshing out a little:
 
 I hope this helps you in building a great job posting.  
 But don't forget that this is only a small part of the things you have to do to attract great talent.
+
+## Update
+
+I now work as [the CTO at Fintura](/one-month-into-my-new-job-as-the-cto-at-fintura/) and one of my first tasks was to write our job postings. I tried to integrate all my tips from above into them. You can find the result on [angel.co](https://angel.co/fintura/jobs).
