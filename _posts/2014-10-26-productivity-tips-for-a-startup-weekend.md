@@ -4,9 +4,9 @@ author: Markus Tacker
 layout: post
 permalink: /startup-weekend-productivity-tipps
 lang: en
-categories:
-  - usergroups
 tags:
+  - usergroups
+  - startups
   - startup-weekend
 ---
 So, you are attending a startup weekend? You will be crammed in a room with strangers to collaborate on an idea-maybe even yours? I have some advice for you to improve your output during this 54 hours.
