@@ -19,14 +19,18 @@ I've been organizing and attending more then a dozen events in the format of a S
 
 In my opinion the [default shedule](https://gist.github.com/coderbyheart/fda7f88914752c8a7637) for the weekend as proposed by the up.com, the Startup Weekend Organization, is not educating the teams enough to focus on what matters in those 54 hours: *validate their assumptions* about the business idea and *prepare a presentation*. For this year I've created a new shedule which includes more concrete deliverables and divides the weekend into distinct slots which put the focus on them. The goal is to prepare and equip every team with the material and knowledge they need to talk to investors and new team members–because this is what they will be doing after the weekend.
 
-The new schedule at a glance:
+## The new schedule at a glance
 
  * The *Friday* schedule is kept unchanged. The difference is that once the teams have formed their task is to **deliver their mission statement and an elevator pitch**.
  * The task for *Saturday* morning is to **define three assumptions** about the business, e.g. why this idea will succeed, who are the customers, what is the market. The team then uses the time after lunch until dinner to  **evaluate the assumptions** by going into the city to conduct interviews and finding their first real customers.
  * *Sunday* is dedicated to **building a compelling pitch**. This can be in the form of a presentation  or a prototype. It is important to focus on every aspect of the idea: business, realization, team, uniqueness, and wit!
  * The schedule also includes more clearly defined slots for the presence of the coaches.
+ * 
 
-Teasm are tasked to deliver:
+## Deliverables
+
+Teams are tasked to deliver:
+
  * a written mission statement (max. 10 words) 
  * an elevator pitch (max. 1000 characters)
  * written assumptions about their business and evaluation plan
