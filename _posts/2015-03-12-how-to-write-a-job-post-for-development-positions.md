@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to write a job post for development positions [Update]"
+title:  "How to write a job post for development positions [Updated]"
 date:   2015-05-31 14:00:00
 excerpt: > #
   An important role in your search for developers is your job page. 
