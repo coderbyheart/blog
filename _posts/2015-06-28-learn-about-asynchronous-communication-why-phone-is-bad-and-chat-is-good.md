@@ -4,7 +4,7 @@ title:  "Learn about asynchronous communication: why phone is bad and chat is go
 date:   2015-06-28 11:30:00
 excerpt: > #
   This post tries to explain the rationale behing one of my recent tweets:
-  **Phone is bad, Chat is good.**
+  Phone is bad, Chat is good.
 categories:
 - futureofwork
 permalink: learn-about-asynchronous-communication-why-phone-is-bad-and-chat-is-good
