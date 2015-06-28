@@ -3,14 +3,14 @@ layout: post
 title:  "Learn about asynchronous communication: why phone is bad and chat is good"
 date:   2015-06-28 11:30:00
 excerpt: > #
-  This post tries to explain the rationale behing one of my recent tweets:
+  This post tries to explain the rationale behind one of my recent tweets:
   Phone is bad, Chat is good.
 categories:
 - futureofwork
 permalink: learn-about-asynchronous-communication-why-phone-is-bad-and-chat-is-good
 ---
 
-This post tries to explain the rationale behing one of [my recent tweets](https://twitter.com/coderbyheart/status/612577493594284032):
+This post tries to explain the rationale behind one of [my recent tweets](https://twitter.com/coderbyheart/status/612577493594284032):
 
 > Everyone will work better if all understand the difference between sync and async communication: 
 > **Phone is bad, Chat is good.** [#futureofwork](https://twitter.com/hashtag/futureofwork?src=hash)
