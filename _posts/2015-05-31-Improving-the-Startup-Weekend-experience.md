@@ -16,9 +16,7 @@ tags:
   - startup-weekend
 ---
 
-I've been organizing and attending more then a dozen events in the format of a Startup Weekend in the past three years. Being part of the organizing team behind [this year's Founders-Hub Startup Weekend](http://startupweekendrheinmain.de/) gives me the opportunity to improve the experience you'll have when attending this exciting event.
-
-In my opinion the [default shedule](https://gist.github.com/coderbyheart/fda7f88914752c8a7637) for the weekend as proposed by the up.com, the Startup Weekend Organization, is not educating the teams enough to focus on what matters in those 54 hours: *validate their assumptions* about the business idea and *prepare a presentation*. For this year I've created a new shedule which includes more concrete deliverables and divides the weekend into distinct slots which put the focus on them. The goal is to prepare and equip every team with the material and knowledge they need to talk to investors and new team members–because this is what they will be doing after the weekend.
+I've been organizing and attending more then a dozen events in the format of a Startup Weekend in the past three years. In my opinion the [default shedule](https://gist.github.com/coderbyheart/fda7f88914752c8a7637) for the weekend as proposed by the up.com, the Startup Weekend Organization, is not educating the teams enough to focus on what matters in those 54 hours: *validate their assumptions* about the business idea and *prepare a presentation*. Therefore I've created a new shedule which includes more concrete deliverables and divides the weekend into distinct slots which put the focus on them. The goal is to prepare and equip every team with the material and knowledge they need to talk to investors and new team members–because this is what they will be doing after the weekend.
 
 ## The new schedule at a glance
 
