@@ -3,6 +3,7 @@ layout: post
 title:  "I want to tear down the developer firewall"
 date:   2015-09-13 21:48:00
 excerpt: > #
+  I create developer firewalls for a living. And it is so wrong.
 categories:
 - agile
 - organizations
