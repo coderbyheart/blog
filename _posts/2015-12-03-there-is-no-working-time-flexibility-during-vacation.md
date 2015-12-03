@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "There is no working time flexibility during vacation.md"
+title:  "There is no working time flexibility during vacation"
 date:   2015-12-03 08:48:00
 excerpt: > #
   If not for yourself, you owe it to your peers to be a good example by not executing 
