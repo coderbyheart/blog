@@ -7,6 +7,7 @@ excerpt: > #
   your working time flexibility during your vacation.
 categories:
 - organizations
+- futurofwork
 permalink: there-is-no-working-time-flexibility-during-vacation
 ---
 
