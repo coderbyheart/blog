@@ -6,6 +6,7 @@ excerpt: > #
   Tobias Zander has written a blog post about Motivation of software engineers. These are my motivations.
 categories:
 - softwarecraftsmanship
+- futureofwork
 permalink: motivation
 ---
 
