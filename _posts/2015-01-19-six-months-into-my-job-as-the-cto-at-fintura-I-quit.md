@@ -17,6 +17,7 @@ you will find me struggling with explaining my idea and values. One of the decis
 find support for [my vision](/motivation/) of what makes a great place to work. 
 
 But in every bad experience there are still things to learn. In no particular order, these were:
+
 * culture: I only want to work with a CEO that I have genuine sympathy for
 * values: I need to put more effort into making sure that our goals align (go read [The Big Five for Life](http://amzn.to/1RRg7Nw)) and 
   happiness (or [joy](http://blog.cto.hiv/joy-inc/)) is a core value
