@@ -8,6 +8,7 @@ categories:
 - softwarecraftsmanship
 - futureofwork
 - job
+- work
 permalink: motivation
 ---
 
