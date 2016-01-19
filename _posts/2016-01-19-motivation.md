@@ -7,6 +7,7 @@ excerpt: > #
 categories:
 - softwarecraftsmanship
 - futureofwork
+- job
 permalink: motivation
 ---
 
