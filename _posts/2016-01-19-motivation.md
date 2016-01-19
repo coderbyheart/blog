@@ -3,10 +3,9 @@ layout: post
 title:  "On Motivation of Software Engineers"
 date:   2016-01-19 11:00:00
 excerpt: > #
-  Tobias Zander has written a blog post about [Motivation of software engineers](http://www.travelling-developer.com/2016/01/motivation-of-software-engineers/). These are my motivations.
+  Tobias Zander has written a blog post about Motivation of software engineers. These are my motivations.
 categories:
-- fintech
-- rheinmain
+- softwarecraftsmanship
 permalink: motivation
 ---
 
