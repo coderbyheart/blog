@@ -8,6 +8,7 @@ excerpt: > #
 categories:
 - fintech
 - startups
+- work
 permalink: one-month-into-my-new-job-as-the-cto-at-fintura
 ---
 
