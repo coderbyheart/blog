@@ -15,6 +15,8 @@ permalink: motivation
 *Tobias Zander has written a blog post about 
 [Motivation of software engineers](http://www.travelling-developer.com/2016/01/motivation-of-software-engineers/). This is what motivates me:*
 
+[![Happieness](/uploads/dilbert-happy-2015-10-16.gif)](http://dilbert.com/strip/2015-10-16)
+
 ## Freedom
 
 Being once again in the situation of looking for my next job this question is a very important one to answer. I can earn money by 
