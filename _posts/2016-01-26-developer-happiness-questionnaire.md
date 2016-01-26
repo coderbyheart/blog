@@ -21,9 +21,9 @@ I let my colleagues fill out the anonymous form every other month, prior to all-
 I use Google Forms and give all colleagues an exact date and time when to fill out the form. This
 disables any form of tracking / assigning individual answers to team members.
 
-During the all-hands meeting we go through the (commulated) results and talk about what we can do to 
+During the all-hands meeting we go through the (accumulated) results and talk about what we can do to 
 improve the ratings. The discussion alone is brilliant and the questionnaire is a great starter for this
-(neccessary) discussion. Nevertheless, it helps you to keep track of the progress in tackling the issues
+(necessary) discussion. Nevertheless, it helps you to keep track of the progress in tackling the issues
 that arise.
 
 These are the 14 questions, I've also translated them into German for a better understanding.
