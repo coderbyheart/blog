@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "(developer) happiness questionnaire"
-date:   2016-01-19 11:00:00
+date:   2016-01-26 15:00:00
 excerpt: > #
   I use the (developer) happiness questionnaire to collect honest feedback about the happiness
   of my colleagues
