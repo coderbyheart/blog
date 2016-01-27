@@ -14,11 +14,30 @@ permalink: developer-happiness-questionnaire
 
 I use the (developer) happiness questionnaire to collect honest feedback about the happiness
 of my colleagues. It is based on the book [First break all the rules](http://amzn.to/1JYiGoB) by the
-Gallup Institute but has been slightly modified.
+Gallup Institute but has been slightly modified. 
 
 [Gallup tested thousands of questions](https://q12.gallup.com/help/en-us/Answers/164468) on millions of
 employees to find the right questions with the exact wording that provided the highest correlation to 
 business results most companies regularly measure — profitability, productivity, turnover, and safety.
+
+My modified version alters the phrasing of question 9, which originally reads
+
+> Are my associates or fellow employees committed to doing quality work.
+
+This is split into two questions:
+
+> Are all colleagues working with all their possibilites for the company's goal?  
+> Is it favored to deliver high-quality work results?  
+
+This enables to distinguish between individual commitment to qualitity and the overall notion
+about quality throughout the organization.
+
+A new question is the [net promotor score](https://en.wikipedia.org/wiki/Net_Promoter) for teams:
+
+> If I had a good friend who is looking for a new job, would I recommend them to apply here?
+
+If there is one question that summarizes my understanding of a great place to work is: would
+I want my friends to work here, too?
 
 I let my colleagues fill out the anonymous form every other month, prior to all-hands meetings.
 
