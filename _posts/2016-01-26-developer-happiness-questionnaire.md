@@ -16,6 +16,10 @@ I use the (developer) happiness questionnaire to collect honest feedback about t
 of my colleagues. It is based on the book [First break all the rules](http://amzn.to/1JYiGoB) by the
 Gallup Institute but has been slightly modified.
 
+[Gallup tested thousands of questions](https://q12.gallup.com/help/en-us/Answers/164468) on millions of
+employees to find the right questions with the exact wording that provided the highest correlation to 
+business results most companies regularly measure — profitability, productivity, turnover, and safety.
+
 I let my colleagues fill out the anonymous form every other month, prior to all-hands meetings.
 
 I use Google Forms and give all colleagues an exact date and time when to fill out the form. This
