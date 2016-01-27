@@ -47,7 +47,7 @@ a history.
     *Habe ich in den letzten 7 Tagen Anerkennung oder Lob für meine Arbeit erhalten?*
    
 5.  Does my supervisor or someone at work seem to care about me as a person?  
-    *Ist mein Vorgesetzter oder jemand anderes auf der Arbeit an mir als Person interessiert?*
+    *Schätzt mich mein Vorgesetzter oder jemand anderes auf der Arbeit als Person?*
    
 6.  Is there someone at work who encourages my development?  
     *Gibt es jemanden auf der Arbeit, der mich zur Weiterentwicklung ermutigt?*
