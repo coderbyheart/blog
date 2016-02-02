@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Working remote: celebrate successes"
-date:   2016-02-02 12:43:00
+date:   2016-02-02 11:43:00
 excerpt: > #  
   This is not so easy as it sounds: because we are pushing out updates to our products every day, a natural date to 
   celebrate does no longer manifest itself. As a manager we have to take care of this, too.
@@ -15,7 +15,7 @@ permalink: working-remote-celebrate-successes
 ---
 
 *This post series is a summary of my talk about the challenge working in distributed teams. 
-[Find the other parts here.](/working-in-distributed-teams-the-three-most-important-challenges/)*
+[Find the other parts here.](/working-in-distributed-teams-the-three-most-important-challenges)*
 
 In an environment where we are continuously pushing out changes it is hard to find clear milestones or even changes that
 are “big”. If you work in an organization that is a web based business you work towards processes that allow for 
