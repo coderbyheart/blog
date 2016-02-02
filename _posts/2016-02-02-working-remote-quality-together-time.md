@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Working remote: quality together-time"
-date:   2016-02-02 12:40:00
+date:   2016-02-02 12:42:00
 excerpt: > #  
   The second most important challenge is ensure that the few occasions you will spend face-to-face with your colleagues 
   is quality time. Here is how to achieve this.

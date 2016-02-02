@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Working remote: fix the missing watercooler"
-date:   2016-02-02 12:40:00
+date:   2016-02-02 12:41:00
 excerpt: > #
   The most important challenge when working in distributed teams is the missing watercooler.
   Here is how to fix it.

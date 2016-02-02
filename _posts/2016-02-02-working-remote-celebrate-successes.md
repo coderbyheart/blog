@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Working remote: celebrate successes"
-date:   2016-02-02 12:40:00
+date:   2016-02-02 12:43:00
 excerpt: > #  
   This is not so easy as it sounds: because we are pushing out updates to our products every day, a natural date to 
   celebrate does no longer manifest itself. As a manager we have to take care of this, too.
