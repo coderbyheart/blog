@@ -57,5 +57,5 @@ opt-out of an activity or provide an alternative that allows them to recharge.
 
 Having everyone in one place is the perfect occasion to celebrate successes! This is not so easy as it sounds: because
 we are pushing out updates to our products every day, a natural date to celebrate does no longer manifest itself. As
-a manager we have to take care of this, too.  [Read about it in Part 3](/working-remote-celebrate-successes/) of 
+a manager we have to take care of this, too.  [Read about it in Part 3](/working-remote-celebrate-successes) of 
 [this series](/working-in-distributed-teams-the-three-most-important-challenges).
