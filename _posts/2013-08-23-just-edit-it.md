@@ -1,5 +1,5 @@
 ---
-title: "Just [edit] it!"
+title: Just edit it!
 author: Markus Tacker
 layout: post
 permalink: just-edit-it/
