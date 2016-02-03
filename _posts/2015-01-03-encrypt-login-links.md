@@ -7,7 +7,7 @@ categories:
 - technology
 tags:
 - security
-permalink: encrypt-login-links
+permalink: encrypt-login-links/
 ---
 
 I believe that logging into a web based application using a username and a password should be abolished. *If you want to learn more about the advantages of password-less logins, [read this article][1].*

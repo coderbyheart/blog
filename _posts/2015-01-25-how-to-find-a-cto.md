@@ -8,7 +8,7 @@ excerpt: > #
 categories:
 - startups
 - jobs
-permalink: how-to-find-a-cto
+permalink: how-to-find-a-cto/
 ---
 
 *A fews weeks ago I announced that I am holding [free bi-monthly CTO office hours][1] and the first one I did revolved around the question “How to find a CTO?”. In this post I aim to summarize the advice I gave.*

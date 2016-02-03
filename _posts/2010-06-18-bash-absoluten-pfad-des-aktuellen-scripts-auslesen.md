@@ -2,7 +2,7 @@
 title: 'Bash: Absoluten Pfad des aktuellen Scripts auslesen'
 author: Markus Tacker
 layout: post
-permalink: /bash-absoluten-pfad-des-aktuellen-scripts-auslesen
+permalink: bash-absoluten-pfad-des-aktuellen-scripts-auslesen/
 lang: de
 categories:
   - Snippets

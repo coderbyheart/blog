@@ -2,7 +2,7 @@
 title: Firefox 4 und X.509-Zertifikate
 author: Markus Tacker
 layout: post
-permalink: /firefox-4-und-x-509-zertifikate
+permalink: firefox-4-und-x-509-zertifikate/
 lang: de
 categories:
   - development

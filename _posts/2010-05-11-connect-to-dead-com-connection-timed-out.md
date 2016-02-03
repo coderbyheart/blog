@@ -2,7 +2,7 @@
 title: 'connect to dead.com: Connection timed out'
 author: Markus Tacker
 layout: post
-permalink: /connect-to-dead-com-connection-timed-out
+permalink: connect-to-dead-com-connection-timed-out/
 lang: de
 categories:
   - Kurioses

@@ -2,7 +2,7 @@
 title: Auslastung Januar 2012 Update
 author: Markus Tacker
 layout: post
-permalink: /auslastung-januar-2012-update
+permalink: auslastung-januar-2012-update/
 lang: de
 categories:
   - auslastung

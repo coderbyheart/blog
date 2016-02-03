@@ -2,7 +2,7 @@
 title: "Just [edit] it!"
 author: Markus Tacker
 layout: post
-permalink: /just-edit-it
+permalink: just-edit-it/
 categories:
   - data
 tags:

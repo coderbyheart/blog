@@ -9,7 +9,7 @@ categories:
 - futureofwork
 - job
 - work
-permalink: motivation
+permalink: motivation/
 ---
 
 *Tobias Zander has written a blog post about 

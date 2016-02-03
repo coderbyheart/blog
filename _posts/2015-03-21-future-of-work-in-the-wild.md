@@ -7,7 +7,7 @@ excerpt: > #
   that have already arrived at the future of work.
 categories:
 - futureofwork
-permalink: future-of-work-in-the-wild
+permalink: future-of-work-in-the-wild/
 ---
 
 *\#futureofwork* is a rather abstract term which stands for changing our workplaces from a concept that was conceived in 

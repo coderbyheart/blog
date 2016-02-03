@@ -2,7 +2,7 @@
 title: 'Bash: Bestimmte Dateien oder Verzeichnisse beim Auto-Vervollständigen ignorieren'
 author: Markus Tacker
 layout: post
-permalink: /bash-bestimmte-dateien-oder-verzeichne-beim-auto-vervollstandigen-ignorieren
+permalink: bash-bestimmte-dateien-oder-verzeichne-beim-auto-vervollstandigen-ignorieren/
 lang: de
 categories:
   - development

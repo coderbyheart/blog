@@ -2,7 +2,7 @@
 title: PECL crack unter Ubuntu installieren
 author: Markus Tacker
 layout: post
-permalink: /pecl-crack-unter-ubuntu-installieren
+permalink: pecl-crack-unter-ubuntu-installieren/
 lang: de
 categories:
   - development

@@ -7,7 +7,7 @@ excerpt: > #
 categories:
 - fintech
 - rheinmain
-permalink: fintech-appsolute-bankfurt
+permalink: fintech-appsolute-bankfurt/
 ---
 
 I've written an article about the fintech scene in Frankfurt which you can find at [hallofrankfurt.de](http://hallofrankfurt.de/blog/articles/fintech-appsolute-bankfurt).

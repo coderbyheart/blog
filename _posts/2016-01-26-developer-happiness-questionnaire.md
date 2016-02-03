@@ -9,7 +9,7 @@ categories:
 - organizations
 - futureofwork
 - work
-permalink: developer-happiness-questionnaire
+permalink: developer-happiness-questionnaire/
 ---
 
 I use the (developer) happiness questionnaire to collect honest feedback about the happiness

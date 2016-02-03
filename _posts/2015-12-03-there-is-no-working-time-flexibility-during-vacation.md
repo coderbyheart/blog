@@ -8,7 +8,7 @@ excerpt: > #
 categories:
 - organizations
 - futurofwork
-permalink: there-is-no-working-time-flexibility-during-vacation
+permalink: there-is-no-working-time-flexibility-during-vacation/
 ---
 
 If you take your work seriously you also need to do this for your vacation.

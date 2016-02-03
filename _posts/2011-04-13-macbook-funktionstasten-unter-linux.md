@@ -2,7 +2,7 @@
 title: MacBook Funktionstasten unter Linux
 author: Markus Tacker
 layout: post
-permalink: /macbook-funktionstasten-unter-linux
+permalink: macbook-funktionstasten-unter-linux/
 lang: de
 categories:
   - development

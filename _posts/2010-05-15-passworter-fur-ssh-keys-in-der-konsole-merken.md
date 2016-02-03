@@ -2,7 +2,7 @@
 title: Passwörter für SSH-Keys in der Konsole merken
 author: Markus Tacker
 layout: post
-permalink: /passworter-fur-ssh-keys-in-der-konsole-merken
+permalink: passworter-fur-ssh-keys-in-der-konsole-merken/
 lang: de
 categories:
   - Snippets

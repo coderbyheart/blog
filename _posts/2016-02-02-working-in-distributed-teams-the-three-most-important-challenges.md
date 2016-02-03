@@ -11,7 +11,7 @@ categories:
 - remote
 tags:
 - remote-challenges
-permalink: working-in-distributed-teams-the-three-most-important-challenges
+permalink: working-in-distributed-teams-the-three-most-important-challenges/
 ---
 
 This post series is a summary of my talk about the challenge working in distributed teams

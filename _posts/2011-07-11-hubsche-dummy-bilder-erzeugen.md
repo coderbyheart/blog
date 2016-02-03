@@ -2,7 +2,7 @@
 title: Hübsche Dummy-Bilder erzeugen
 author: Markus Tacker
 layout: post
-permalink: /hubsche-dummy-bilder-erzeugen
+permalink: hubsche-dummy-bilder-erzeugen/
 lang: de
 categories:
   - Snippets

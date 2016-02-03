@@ -2,7 +2,7 @@
 title: Auszeichnung zum Top Coder erhalten
 author: Markus Tacker
 layout: post
-permalink: /auszeichnung-zum-top-coder-erhalten
+permalink: auszeichnung-zum-top-coder-erhalten/
 lang: de
 categories:
   - work

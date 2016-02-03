@@ -2,7 +2,7 @@
 title: Default-Werte für Methoden-Argumente sollten null sein
 author: Markus Tacker
 layout: post
-permalink: /default-werte-fur-methoden-argumente-sollten-null-sein
+permalink: default-werte-fur-methoden-argumente-sollten-null-sein/
 lang: de
 categories:
   - development

@@ -9,7 +9,7 @@ excerpt: > #
 categories:
 - startups
 - jobs
-permalink: how-to-write-a-job-post-for-development-positions
+permalink: how-to-write-a-job-post-for-development-positions/
 ---
 
 I recently blogged about [How to find a CTO](http://blog.cto.hiv/how-to-find-a-cto/). An important role in your search for your CTO or any other development role is your job page. Don't miss the chance to impress a curious developer because **every** candidate will browse your website to look up your job postings.

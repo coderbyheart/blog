@@ -2,7 +2,7 @@
 title: Desktop-Hintergrund April 2012
 author: Markus Tacker
 layout: post
-permalink: /desktop-hintergrund-april-2012
+permalink: desktop-hintergrund-april-2012/
 lang: de
 categories:
   - wallpaper

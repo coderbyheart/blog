@@ -2,7 +2,7 @@
 title: Alle ISO-Dateien in einem Verzeichnis nach UTF-8 konvertieren
 author: Markus Tacker
 layout: post
-permalink: /alle-iso-dateien-in-einem-verzeichnis-nach-utf-8-konvertieren
+permalink: alle-iso-dateien-in-einem-verzeichnis-nach-utf-8-konvertieren/
 lang: de
 categories:
   - Snippets

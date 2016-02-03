@@ -9,7 +9,7 @@ categories:
 - fintech
 - startups
 - work
-permalink: one-month-into-my-new-job-as-the-cto-at-fintura
+permalink: one-month-into-my-new-job-as-the-cto-at-fintura/
 ---
 
 *Update: five months after this post I quit my job at Fintura. [Read why …](/six-months-into-my-job-as-the-cto-at-fintura-I-quit/)*

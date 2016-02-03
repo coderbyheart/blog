@@ -2,7 +2,7 @@
 title: Usergroups RheinMain
 author: Markus Tacker
 layout: post
-permalink: /usergroups-rheinmain
+permalink: usergroups-rheinmain/
 lang:
   - de
 categories:

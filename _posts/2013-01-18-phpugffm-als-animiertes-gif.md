@@ -2,7 +2,7 @@
 title: PHPUGFFM als animiertes GIF
 author: Markus Tacker
 layout: post
-permalink: /phpugffm-als-animiertes-gif
+permalink: phpugffm-als-animiertes-gif/
 lang: de
 categories:
   - usergroups

@@ -6,7 +6,7 @@ categories:
 - development
 tags:
 - dotHIV
-permalink: dothiv-browser-statistics-december-2014
+permalink: dothiv-browser-statistics-december-2014/
 ---
 
 Following up on [Goodbye IE8](/goodbye-ie8/) three months earlier it's now time to look again at the browser statics.

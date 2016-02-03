@@ -6,7 +6,7 @@ excerpt: How to make sure you never lose the source code of your business.
 categories:
 - startups
 - backup
-permalink: backup-your-business
+permalink: backup-your-business/
 ---
 
 ![Five Days' Backup](https://farm2.staticflickr.com/1387/1199598508_44cad279a1_z.jpg?zz=1)

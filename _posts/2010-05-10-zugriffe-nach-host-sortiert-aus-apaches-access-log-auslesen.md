@@ -2,7 +2,7 @@
 title: 'Zugriffe nach Host sortiert aus Apache&#8217;s Access Log auslesen'
 author: Markus Tacker
 layout: post
-permalink: /zugriffe-nach-host-sortiert-aus-apaches-access-log-auslesen
+permalink: zugriffe-nach-host-sortiert-aus-apaches-access-log-auslesen/
 lang: de
 categories:
   - Snippets

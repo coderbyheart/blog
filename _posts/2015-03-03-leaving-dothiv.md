@@ -9,7 +9,7 @@ categories:
 - work
 - job
 photo: https://farm8.staticflickr.com/7574/15738269189_3e154ab0d3_b.jpg
-permalink: leaving-dothiv
+permalink: leaving-dothiv/
 ---
 
 [![Me talking about dotHIV](https://farm8.staticflickr.com/7574/15738269189_3e154ab0d3_b.jpg)](https://vimeo.com/112009690)

@@ -2,7 +2,7 @@
 title: 'Leap second: Stromverbrauch bei Hetzner steigt um ein Megawatt'
 author: Markus Tacker
 layout: post
-permalink: /leap-second-stromverbrauch-bei-hetzner-steigt-um-ein-megawatt
+permalink: leap-second-stromverbrauch-bei-hetzner-steigt-um-ein-megawatt/
 lang: de
 categories:
   - development

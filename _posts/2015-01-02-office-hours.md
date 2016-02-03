@@ -6,7 +6,7 @@ excerpt: I'll offer free bimonthly office hours starting January 2015.
 categories:
 - startups
 - office-hours
-permalink: office-hours
+permalink: office-hours/
 ---
 
 In the last two years I’ve dived into the Rhein-Main startup scene working for startups and foremost trying to build a solid foundation that enables startups to grow. An important part of this foundation is a network of people you can trust and who can give you unbiased advice without a hidden agenda. Those are hard to find even if I think giving advice can be a lot a fun-which I had at last year's [Startup Weekend Rhein-Main][1].

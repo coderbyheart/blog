@@ -6,7 +6,7 @@ excerpt: > #
   Impressions from my first tech conference as a speaker.
 categories:
 - conferences
-permalink: topconf-linz-2016
+permalink: topconf-linz-2016/
 ---
 
 I'm just returning from [TopConf Linz 2016](http://topconf.com/linz-2016/) which was my first tech conference that I 

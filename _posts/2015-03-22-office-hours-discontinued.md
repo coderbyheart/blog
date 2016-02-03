@@ -7,7 +7,7 @@ excerpt: > #
 categories:
 - startups
 - office-hours
-permalink: office-hours-discontinued
+permalink: office-hours-discontinued/
 ---
 
 In January 2015 [I offered CTO office hours](/office-hours) every other Thursday. This came out of a new years 

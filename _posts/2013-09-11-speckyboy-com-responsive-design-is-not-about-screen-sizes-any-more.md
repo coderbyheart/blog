@@ -2,7 +2,7 @@
 title: 'speckyboy.com: Responsive Design is Not About Screen Sizes Any More'
 author: Markus Tacker
 layout: post
-permalink: /speckyboy-com-responsive-design-is-not-about-screen-sizes-any-more
+permalink: speckyboy-com-responsive-design-is-not-about-screen-sizes-any-more/
 categories:
   - development
 ---

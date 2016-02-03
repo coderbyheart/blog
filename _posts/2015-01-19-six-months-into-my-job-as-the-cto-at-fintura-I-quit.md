@@ -8,7 +8,7 @@ categories:
 - fintech
 - startups
 - work
-permalink: six-months-into-my-job-as-the-cto-at-fintura-I-quit
+permalink: six-months-into-my-job-as-the-cto-at-fintura-I-quit/
 ---
 
 Mid-October I handed in my resignation which put and end to one of the most miserable work experiences I had in my

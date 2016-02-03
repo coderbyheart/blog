@@ -11,7 +11,7 @@ categories:
 - remote
 tags:
 - remote-challenges
-permalink: working-remote-quality-together-time
+permalink: working-remote-quality-together-time/
 ---
 
 *This post series is a summary of my talk about the challenge working in distributed teams. 
