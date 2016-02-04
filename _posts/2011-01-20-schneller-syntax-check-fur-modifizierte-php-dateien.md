@@ -2,7 +2,7 @@
 title: Schneller Syntax-Check für modifizierte PHP-Dateien
 author: Markus Tacker
 layout: post
-permalink: schneller-syntax-check-fur-modifizierte-php-dateien/
+permalink: schneller-syntax-check-fur-modifizierte-php-dateien
 lang: de
 categories:
   - Snippets

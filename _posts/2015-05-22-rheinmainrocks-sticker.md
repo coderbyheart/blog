@@ -6,7 +6,7 @@ excerpt: > #
   You can now stick #RheinMainRocks where you like!
 categories:
 - RheinMainRocks
-permalink: rheinmainrocks-sticker/
+permalink: rheinmainrocks-sticker
 ---
 
 Here they are: the totally inofficial [#RheinMainRocks](https://twitter.com/search?q=%23RheinMainRocks&src=typd&vertical=default&f=tweets) sticker.

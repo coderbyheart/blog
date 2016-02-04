@@ -2,7 +2,7 @@
 title: 'Eclipse: -clean -refresh'
 author: Markus Tacker
 layout: post
-permalink: eclipse-clean-refresh/
+permalink: eclipse-clean-refresh
 lang: de
 categories:
   - development

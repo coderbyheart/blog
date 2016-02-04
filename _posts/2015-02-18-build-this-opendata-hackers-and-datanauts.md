@@ -5,7 +5,7 @@ date:   2015-05-31 13:00:00
 excerpt: OpenData projects must be useful not just interesting, so here is my idea
 categories:
 - opendata
-permalink: build-this-opendata-hackers-and-datanauts/
+permalink: build-this-opendata-hackers-and-datanauts
 ---
 
 I recently participated in the first meeting of the [Open Knowledge Lab Frankfurt](http://usergroups.rheinmainrocks.de/~oklabffm). The verdict of the meeting was that local OKLabs should focus on building projects that serve a real need and not just be interesting from a developers perspektive … otherwise it wont get noticed by the public and ultimately by local authorities–which are an important source of open data. 

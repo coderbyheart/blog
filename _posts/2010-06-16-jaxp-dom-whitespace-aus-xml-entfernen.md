@@ -2,7 +2,7 @@
 title: 'JAXP DOM: Whitespace aus XML entfernen'
 author: Markus Tacker
 layout: post
-permalink: jaxp-dom-whitespace-aus-xml-entfernen/
+permalink: jaxp-dom-whitespace-aus-xml-entfernen
 lang: de
 categories:
   - Snippets

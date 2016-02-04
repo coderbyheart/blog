@@ -2,7 +2,7 @@
 title: Templates für Jenkins in PHP Projekten
 author: Markus Tacker
 layout: post
-permalink: templates-fur-jenkins-in-php-projekten/
+permalink: templates-fur-jenkins-in-php-projekten
 lang: de
 categories:
   - development

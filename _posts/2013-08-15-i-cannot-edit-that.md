@@ -2,7 +2,7 @@
 title: I cannot edit that
 author: Markus Tacker
 layout: post
-permalink: i-cannot-edit-that/
+permalink: i-cannot-edit-that
 categories:
   - data
 tags:

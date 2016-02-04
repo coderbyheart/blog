@@ -8,7 +8,7 @@ excerpt: > #
 categories:
 - softwarecraftsmanship
 - conferences
-permalink: the-magic-of-socrates-conference/
+permalink: the-magic-of-socrates-conference
 ---
 
 It's the fifth installement of the yearly conference centered around the idea that 

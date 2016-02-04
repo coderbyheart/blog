@@ -2,7 +2,7 @@
 title: Ant Build Commons von qafoo
 author: Markus Tacker
 layout: post
-permalink: ant-build-commons-von-qafoo/
+permalink: ant-build-commons-von-qafoo
 lang: de
 categories:
   - development

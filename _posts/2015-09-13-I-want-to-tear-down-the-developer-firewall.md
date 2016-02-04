@@ -8,7 +8,7 @@ categories:
 - agile
 - organizations
 - startups
-permalink: i-want-to-tear-down-the-developer-firewall/
+permalink: i-want-to-tear-down-the-developer-firewall
 ---
 
 Until recently I understood that one of my roles as a CTO was to create a *developer firewall* that shields the 

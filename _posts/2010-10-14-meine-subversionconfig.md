@@ -2,7 +2,7 @@
 title: Meine .subversion/config
 author: Markus Tacker
 layout: post
-permalink: meine-subversionconfig/
+permalink: meine-subversionconfig
 lang: de
 categories:
   - development

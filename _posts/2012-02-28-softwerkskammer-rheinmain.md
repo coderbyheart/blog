@@ -2,7 +2,7 @@
 title: Softwerkskammer RheinMain
 author: Markus Tacker
 layout: post
-permalink: softwerkskammer-rheinmain/
+permalink: softwerkskammer-rheinmain
 lang: de
 categories:
   - usergroups

@@ -7,17 +7,17 @@ excerpt: > #
 categories:
 - startups
 - office-hours
-permalink: office-hours-discontinued/
+permalink: office-hours-discontinued
 ---
 
-In January 2015 [I offered CTO office hours](/office-hours/) every other Thursday. This came out of a new years 
+In January 2015 [I offered CTO office hours](/office-hours) every other Thursday. This came out of a new years 
 resolution to do more things that I really enjoy–and I enjoy meeting people and work with them and their ideas.
 
 That decision had a fascinating side-effect. When one of my former co-eds asked me to be her mentor the answer was 
 a no-brainer: of course, I can and want to do that! I don't know how that call would have turned out if I didn't
 have thought about the office hours in January.
 
-As a fallout from [my search for a new job](/leaving-dothiv/) I also offered to be a mentor for the founder of a local
+As a fallout from [my search for a new job](/leaving-dothiv) I also offered to be a mentor for the founder of a local
 startup. We are new meeting every two weeks for two hours.
 
 What I enjoy about being a mentor over giving office hours is that continuously supporting a person enables me to see 

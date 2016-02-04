@@ -2,7 +2,7 @@
 title: Productivity Tips for a Startup Weekend
 author: Markus Tacker
 layout: post
-permalink: startup-weekend-productivity-tipps/
+permalink: startup-weekend-productivity-tipps
 lang: en
 tags:
   - usergroups

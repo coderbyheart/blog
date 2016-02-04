@@ -2,7 +2,7 @@
 title: Niedrigen Speicherplatz mit Bash überprüfen und per Mail warnen
 author: Markus Tacker
 layout: post
-permalink: niedrigen-speicherplatz-mit-bash-uberprufen-und-per-mail-warnen/
+permalink: niedrigen-speicherplatz-mit-bash-uberprufen-und-per-mail-warnen
 lang: de
 categories:
   - Snippets

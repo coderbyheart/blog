@@ -2,7 +2,7 @@
 title: Timezone in Ubuntu setzen
 author: Markus Tacker
 layout: post
-permalink: timezone-in-ubuntu-setzen/
+permalink: timezone-in-ubuntu-setzen
 lang: de
 categories:
   - development

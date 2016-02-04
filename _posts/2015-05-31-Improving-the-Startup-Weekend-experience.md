@@ -2,7 +2,7 @@
 title: Improving the Startup Weekend Experience
 author: Markus Tacker
 layout: post
-permalink: improving-the-startup-weekend-experience/
+permalink: improving-the-startup-weekend-experience
 date:   2015-05-31 17:50:00
 lang: en
 excerpt: > #

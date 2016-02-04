@@ -2,7 +2,7 @@
 title: Desktop-Hintergrund Februar 2012
 author: Markus Tacker
 layout: post
-permalink: desktop-hintergrund-februar-2012/
+permalink: desktop-hintergrund-februar-2012
 lang: de
 categories:
   - wallpaper

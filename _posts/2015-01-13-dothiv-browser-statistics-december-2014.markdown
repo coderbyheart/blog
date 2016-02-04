@@ -6,10 +6,10 @@ categories:
 - development
 tags:
 - dotHIV
-permalink: dothiv-browser-statistics-december-2014/
+permalink: dothiv-browser-statistics-december-2014
 ---
 
-Following up on [Goodbye IE8](/goodbye-ie8/) three months earlier it's now time to look again at the browser statics.
+Following up on [Goodbye IE8](/goodbye-ie8) three months earlier it's now time to look again at the browser statics.
 
 Below you'll find the browser statistics for December 2014 collected with Google Analytics on our sites [click4life.hiv](https://click4life.hiv/) and [tld.hiv](https://tld.hiv/).
 

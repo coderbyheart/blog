@@ -2,7 +2,7 @@
 title: Intents auf Android testen
 author: Markus Tacker
 layout: post
-permalink: intents-auf-android-testen/
+permalink: intents-auf-android-testen
 lang: de
 categories:
   - Snippets

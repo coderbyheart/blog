@@ -2,7 +2,7 @@
 title: 'Tincr &#8211; Edit and save files from Chrome Developer tools. Live reload for Chrome.'
 author: Markus Tacker
 layout: post
-permalink: tincr-edit-and-save-files-from-chrome-developer-tools-live-reload-for-chrome/
+permalink: tincr-edit-and-save-files-from-chrome-developer-tools-live-reload-for-chrome
 categories:
   - development
 tags:

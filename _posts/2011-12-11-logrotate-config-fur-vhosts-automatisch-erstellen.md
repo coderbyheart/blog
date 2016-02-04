@@ -2,7 +2,7 @@
 title: Logrotate-Config für VHosts automatisch erstellen
 author: Markus Tacker
 layout: post
-permalink: logrotate-config-fur-vhosts-automatisch-erstellen/
+permalink: logrotate-config-fur-vhosts-automatisch-erstellen
 lang: de
 categories:
   - Snippets

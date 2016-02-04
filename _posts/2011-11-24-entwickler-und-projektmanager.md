@@ -2,7 +2,7 @@
 title: Entwickler und Projektmanager
 author: Markus Tacker
 layout: post
-permalink: entwickler-und-projektmanager/
+permalink: entwickler-und-projektmanager
 lang: de
 categories:
   - work

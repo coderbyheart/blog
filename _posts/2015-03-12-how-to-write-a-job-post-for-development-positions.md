@@ -9,7 +9,7 @@ excerpt: > #
 categories:
 - startups
 - jobs
-permalink: how-to-write-a-job-post-for-development-positions/
+permalink: how-to-write-a-job-post-for-development-positions
 ---
 
 I recently blogged about [How to find a CTO](http://blog.cto.hiv/how-to-find-a-cto/). An important role in your search for your CTO or any other development role is your job page. Don't miss the chance to impress a curious developer because **every** candidate will browse your website to look up your job postings.
@@ -49,4 +49,4 @@ But don't forget that this is only a small part of the things you have to do to 
 
 ## Update
 
-I now work as [the CTO at Fintura](/one-month-into-my-new-job-as-the-cto-at-fintura/) and one of my first tasks was to write our job postings. I tried to integrate all my tips from above into them. You can find the result on [angel.co](https://angel.co/fintura/jobs).
+I now work as [the CTO at Fintura](/one-month-into-my-new-job-as-the-cto-at-fintura) and one of my first tasks was to write our job postings. I tried to integrate all my tips from above into them. You can find the result on [angel.co](https://angel.co/fintura/jobs).

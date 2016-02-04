@@ -2,7 +2,7 @@
 title: Startup Weekend RheinMain 2012
 author: Markus Tacker
 layout: post
-permalink: startup-weekend-rheinmain-2012/
+permalink: startup-weekend-rheinmain-2012
 lang: de
 tags:
   - usergroups

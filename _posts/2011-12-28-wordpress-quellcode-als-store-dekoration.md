@@ -2,7 +2,7 @@
 title: WordPress-Quellcode als Store-Dekoration
 author: Markus Tacker
 layout: post
-permalink: wordpress-quellcode-als-store-dekoration/
+permalink: wordpress-quellcode-als-store-dekoration
 lang: de
 categories:
   - Kurioses

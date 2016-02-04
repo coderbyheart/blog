@@ -2,7 +2,7 @@
 title: Relationen in Linked Data
 author: Markus Tacker
 layout: post
-permalink: relationen-in-linked-data/
+permalink: relationen-in-linked-data
 categories:
   - development
 tags:

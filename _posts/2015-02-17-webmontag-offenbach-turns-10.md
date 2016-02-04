@@ -7,7 +7,7 @@ excerpt: > #
   the 10th Webmontag Offenbach.
 categories:
 - events
-permalink: webmontag-offenbach-turns-10/
+permalink: webmontag-offenbach-turns-10
 ---
 
 On the next Monday, February 23rd 2015, I'll be at a run-down place that used to be a super market and hosting the 10th Webmontag Offenbach.

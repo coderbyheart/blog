@@ -11,15 +11,15 @@ categories:
 - remote
 tags:
 - remote-challenges
-permalink: working-remote-quality-together-time/
+permalink: working-remote-quality-together-time
 ---
 
 *This post series is a summary of my talk about the challenge working in distributed teams. 
-[Find the other parts here.](/working-in-distributed-teams-the-three-most-important-challenges/)*
+[Find the other parts here.](/working-in-distributed-teams-the-three-most-important-challenges)*
 
 The few times you spend together with your employees face to face should be quality time!
 
-If you have [fixed the missing watercooler](/working-remote-fix-the-missing-watercooler/) you are still not learning 
+If you have [fixed the missing watercooler](/working-remote-fix-the-missing-watercooler) you are still not learning 
 much about the personal quirks everyone has, but this is important for a good understanding of each others motivations 
 and fears. That’s why you simply must bring everyone together regularly, at least every other month. Yes, this requires 
 a lot of effort and it costs money! And to focus on getting everyone to know each other better, this occasion should not 
@@ -57,5 +57,5 @@ opt-out of an activity or provide an alternative that allows them to recharge.
 
 Having everyone in one place is the perfect occasion to celebrate successes! This is not so easy as it sounds: because
 we are pushing out updates to our products every day, a natural date to celebrate does no longer manifest itself. As
-a manager we have to take care of this, too.  [Read about it in Part 3](/working-remote-celebrate-successes/) of 
-[this series](/working-in-distributed-teams-the-three-most-important-challenges/).
+a manager we have to take care of this, too.  [Read about it in Part 3](/working-remote-celebrate-successes) of 
+[this series](/working-in-distributed-teams-the-three-most-important-challenges).

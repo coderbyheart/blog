@@ -7,7 +7,7 @@ excerpt: > #
   Phone is bad, Chat is good.
 categories:
 - futureofwork
-permalink: learn-about-asynchronous-communication-why-phone-is-bad-and-chat-is-good/
+permalink: learn-about-asynchronous-communication-why-phone-is-bad-and-chat-is-good
 ---
 
 This post tries to explain the rationale behind one of [my recent tweets](https://twitter.com/coderbyheart/status/612577493594284032):

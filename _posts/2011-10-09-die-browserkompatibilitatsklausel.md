@@ -2,7 +2,7 @@
 title: Die Browserkompatibilitätsklausel
 author: Markus Tacker
 layout: post
-permalink: die-browserkompatibilitatsklausel/
+permalink: die-browserkompatibilitatsklausel
 categories:
   - freelancing
 ---

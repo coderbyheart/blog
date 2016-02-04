@@ -2,7 +2,7 @@
 title: 'Eclipse: Standard-Wert für @author in JavaDoc ändern'
 author: Markus Tacker
 layout: post
-permalink: eclipse-standard-wert-fur-author-in-javadoc-andern/
+permalink: eclipse-standard-wert-fur-author-in-javadoc-andern
 lang: de
 categories:
   - development

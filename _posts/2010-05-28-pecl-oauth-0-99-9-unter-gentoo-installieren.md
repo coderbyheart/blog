@@ -2,7 +2,7 @@
 title: PECL OAuth 0.99.9 unter Gentoo installieren
 author: Markus Tacker
 layout: post
-permalink: pecl-oauth-0-99-9-unter-gentoo-installieren/
+permalink: pecl-oauth-0-99-9-unter-gentoo-installieren
 lang: de
 categories:
   - development

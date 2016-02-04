@@ -2,7 +2,7 @@
 title: Unicode Cheat Sheet
 author: Markus Tacker
 layout: post
-permalink: unicode-cheat-sheet/
+permalink: unicode-cheat-sheet
 categories:
   - Snippets
 tags:

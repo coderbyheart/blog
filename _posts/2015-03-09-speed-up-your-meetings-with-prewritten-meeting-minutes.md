@@ -6,7 +6,7 @@ excerpt: How to make your meetings fun again, productive and produce a well-made
 categories:
 - organization
 - meetings
-permalink: speed-up-your-meetings-with-pre-written-meeting-minutes/
+permalink: speed-up-your-meetings-with-pre-written-meeting-minutes
 ---
 
 When I joined [dotHIV](https://click4life.hiv/) we had weekly *jour fixe* meetings via Google Hangout that easily took one hour with a team of five. Today we barely ever break the 30 minute mark and no one has to keep tabs to create the meeting minutes afterwards. Our meetings are fun again, productive for us and produce a well-made protocol afterwards.

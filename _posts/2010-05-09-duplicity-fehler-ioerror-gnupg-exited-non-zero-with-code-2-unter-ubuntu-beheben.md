@@ -2,7 +2,7 @@
 title: 'duplicity Fehler &#8220;IOError: GnuPG exited non-zero, with code 2&#8243; unter Ubuntu beheben'
 author: Markus Tacker
 layout: post
-permalink: duplicity-fehler-ioerror-gnupg-exited-non-zero-with-code-2-unter-ubuntu-beheben/
+permalink: duplicity-fehler-ioerror-gnupg-exited-non-zero-with-code-2-unter-ubuntu-beheben
 lang: de
 categories:
   - development

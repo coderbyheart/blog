@@ -7,7 +7,7 @@ categories:
 - development
 tags:
 - dotHIV
-permalink: goodbye-ie8/
+permalink: goodbye-ie8
 ---
 
 The first commits for [our platform](https://github.com/dothiv/dothiv/) date back to April 2013. Back then Internet Explorer 7 had to be considered for [our click-counters](https://github.com/dothiv/clickcounter), and Internet Explorer 8 for the platform.
