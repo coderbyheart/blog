@@ -1,6 +1,7 @@
-baseurl:
-url: http://blog.cto.hiv
+baseurl: ""
+url: https://blog.cto.hiv
 lang: en
+timezone: Europe/Berlin
 
 harmony:
   name: coder::by(♥); // blog
@@ -8,8 +9,8 @@ harmony:
   photo: https://farm8.staticflickr.com/7336/13376420184_1f7c386fd7_n.jpg
   meta_description: > #
     Blog by Markus Tacker, a CTO from Offenbach, Germany.
-    I ♥ to code. Mostly backends. But I'll hack on the source code of your organization, too.
-    Opinions are my own.
+    A coder by ♥ and organizational hacker by passion.
+    I help teams to build great software and to enjoy their work.
   basetheme: harmony
   author:
     name: Markus Tacker
