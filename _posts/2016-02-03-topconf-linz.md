@@ -14,7 +14,7 @@ visited as a speaker. I do have [quite some speaking](https://cto.hiv/#talks) ex
 around 15 minutes, and in front of an audience that does not pay to attend the event. With a ticket price of €220 this 
 conference is no where near your usual €1,500+ that some of the bigger conferences call up but still, not a *free* 
 event. I did visit some similar priced conferences in the past, like the 
-[mindblowing SoCraTes](/the-magic-of-socrates-conference) or the [APIDays](http://apidays.io/) so I do also have made 
+[mindblowing SoCraTes](/the-magic-of-socrates-conference/) or the [APIDays](http://apidays.io/) so I do also have made 
 some experiences how awesome conference could be. TopConf unfortunately does not fully live up to its name. 
 
 They did manage to create a really interesting and to some extent diverse program with one workshop day and eight talk 

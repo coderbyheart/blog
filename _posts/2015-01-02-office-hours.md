@@ -24,7 +24,7 @@ Email me at [m@cto.hiv][2] with a short intro and a link to your LinkedIn or XIN
 
 There are no strings attached.
 
-*Update March 22nd 2015:* I've discontinued the office hours. Learn why, [here](/office-hours-discontinued).
+*Update March 22nd 2015:* I've discontinued the office hours. Learn why, [here](/office-hours-discontinued/).
 
 [1]: http://rheinmain.startupweekend.org/
 [2]: mailto:m@cto.hiv?subject=Office+Hours

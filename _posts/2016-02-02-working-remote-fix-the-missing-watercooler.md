@@ -15,7 +15,7 @@ permalink: working-remote-fix-the-missing-watercooler/
 ---
 
 *This post series is a summary of my talk about the challenge working in distributed teams. 
-[Find the other parts here.](/working-in-distributed-teams-the-three-most-important-challenges)*
+[Find the other parts here.](/working-in-distributed-teams-the-three-most-important-challenges/)*
 
 The watercooler is a symbol for a central place in an office building where everyone walks by multiple times per day and 
 which enables informal, accidental meetings.
@@ -161,6 +161,6 @@ CEOs in every company. Go and scout a coworking space, work from home or even mo
 ## Coming up: quality together-time
 
 The second most important challenge is to ensure that the few occasions you will spend face-to-face with your colleagues 
- is quality time. [Read about it in Part 2](/working-remote-quality-together-time) of 
- [this series](/working-in-distributed-teams-the-three-most-important-challenges).
+ is quality time. [Read about it in Part 2](/working-remote-quality-together-time/) of 
+ [this series](/working-in-distributed-teams-the-three-most-important-challenges/).
 

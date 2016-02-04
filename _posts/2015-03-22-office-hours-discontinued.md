@@ -10,7 +10,7 @@ categories:
 permalink: office-hours-discontinued/
 ---
 
-In January 2015 [I offered CTO office hours](/office-hours) every other Thursday. This came out of a new years 
+In January 2015 [I offered CTO office hours](/office-hours/) every other Thursday. This came out of a new years 
 resolution to do more things that I really enjoy–and I enjoy meeting people and work with them and their ideas.
 
 That decision had a fascinating side-effect. When one of my former co-eds asked me to be her mentor the answer was 
