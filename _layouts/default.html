@@ -8,13 +8,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.harmony.meta_description }}{% endif %}">
         <link rel="canonical"
-        href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+        href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
         <!-- Harmony styles -->
-        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css">
+        <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
 
         <!-- Modernizr js -->
-        <script async src="{{ site.baseurl }}/assets/js/modernizr.js"></script>
+        <script async src="{{ site.url }}/assets/js/modernizr.js"></script>
 
         <!-- IE Fixes -->
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -36,7 +36,7 @@
     <body class="{{ site.harmony.basetheme }}">
         <header class="main-header">
             <div class="wc-container">
-                <h1><a href="{{ site.baseurl }}/">{{ site.harmony.name }}</a></h1>
+                <h1><a href="{{ site.url }}/">{{ site.harmony.name }}</a></h1>
                 <h2>{{ site.harmony.description }}</h2>
                 {% include header-links.html %}
             </div>
@@ -69,9 +69,9 @@
         <!-- jQuery -->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <!-- When no internet load JQuery from local -->
-        <script>window.jQuery || document.write('<script src="{{ site.baseurl }}/assets/js/jquery.min.js"><\/script>')</script>
+        <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/jquery.min.js"><\/script>')</script>
         <!-- Site js -->
-        <script src="{{ site.baseurl }}/assets/js/all.js"></script>
+        <script src="{{ site.url }}/assets/js/all.js"></script>
         <!-- dotHIV click-counter: https://click4life.hiv/ -->
         <script src="//dothiv-registry.appspot.com/static/clickcounter.min.js" type="text/javascript"></script>
     </body>
