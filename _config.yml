@@ -41,3 +41,5 @@ exclude:
 sass:
     sass_dir: assets/css/_sass
     style: :compressed
+
+google_site_verification: 7At6JPcFhF9xQRWVJNjHqfmmp6SJqHlEFgfQmaNl1dw
