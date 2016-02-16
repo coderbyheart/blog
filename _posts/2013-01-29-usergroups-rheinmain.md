@@ -22,11 +22,11 @@ Die Visualisierung der Daten erfolgt unter [usergroups.rheinmainrocks.de][1] �
 
 Nun sind alles Technologie-Usergroups aus dem RheinMain-Gebiet aufgerufen, ihren Einträge anzulegen oder zu erweitern, Logos zur Verfügung zu stellen und ein Foto der Gruppe auf dem nächsten Treffen zu machen. Neben den reinen statischen Informationen zur Usergroup können auch die nächsten Termin hinterlegt werden. Der [Eintrag der PyUGRM][8] zeigt die volle Ausprägung  der anzeigbaren Daten.
 
- [1]: http://usergroups.rheinmainrocks.de/
+ [1]: https://usergroups.rheinmainrocks.de/
  [2]: http://en.wikipedia.org/wiki/Ignite_(event)
  [3]: http://RheinMainRocks.de/usergroups
  [4]: http://www.lug-frankfurt.de/FrUsKon
- [5]: https://github.com/tacker/ugrm-data
- [6]: https://github.com/tacker/ugrm-data/blob/master/xsd/usergroup.xsd
- [7]: https://github.com/tacker/ugrm
- [8]: http://usergroups.rheinmainrocks.de/usergroup/pyugrm
+ [5]: https://github.com/rheinmainrocks/ugrm-data
+ [6]: https://github.com/rheinmainrocks/ugrm-data/blob/master/xsd/usergroup.xsd
+ [7]: https://github.com/rheinmainrocks/ugrm
+ [8]: https://usergroups.rheinmainrocks.de/usergroup/pyugrm
