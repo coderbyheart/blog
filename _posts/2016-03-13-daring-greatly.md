@@ -40,8 +40,8 @@ organize work but also requires everyone to develop new communication
 skills and empathy, change will fail.
 
 A remarkable quote from the book is this one from Kevin Surace, Inc.com's
-Entrepreneur of the Year 2009. Below
-is a verbatim copy from [this article in fastcompy.com](http://www.fastcompany.com/3001239/3-ways-kill-your-companys-idea-stifling-shame-culture)
+Entrepreneur of the Year 2009. Below is a verbatim copy from 
+[this article in fastcompany.com](http://www.fastcompany.com/3001239/3-ways-kill-your-companys-idea-stifling-shame-culture)
 which is freely available:
 
 Brené asked him: *What's the most significant barrier to creativity and 
