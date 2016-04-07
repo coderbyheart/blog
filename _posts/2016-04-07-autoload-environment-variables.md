@@ -2,7 +2,7 @@
 title: 'Autoload environment variables'
 layout: post
 permalink: autoload-environment-variables
-date:   2016-04-17 13:50:00
+date:   2016-04-07 13:50:00
 categories:
   - development
 tags:
