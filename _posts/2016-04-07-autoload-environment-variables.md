@@ -2,7 +2,6 @@
 title: 'Autoload environment variables'
 layout: post
 permalink: autoload-environment-variables
-date:   2016-04-07 12:50:00
 categories:
   - development
 tags:
@@ -29,7 +28,6 @@ In my project directory I have a `.env` file with these contents:
     #!/bin/bash
 
     export MY_FOO_ENV=bar
-
     echo MY_FOO_ENV=$MY_FOO_ENV
 
 Now everytime I run my project the correct environment is set.
