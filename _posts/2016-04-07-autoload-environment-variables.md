@@ -14,18 +14,23 @@ You can teach your bash/zsh to load them on a per directory basis.
 If you add this to your `.bashrc` or `.zshrc.local` a file called `.env` will be sourced if it is present
 in the directory you are cd-ing into:
 
+    function readEnv
+    {
+            if [ -f $PWD/.env ]
+            then
+                    cat $PWD/.env
+                    export $(cat $PWD/.env | xargs)
+            fi
+    }
+    
     cd()
     {
-        builtin cd "$@"
-        if [ -f $PWD/.env ]
-        then
-                . $PWD/.env
-        fi
+            builtin cd "$@"
+            readEnv
     }
+    readEnv
 
 In my project directory I have a `.env` file with these contents:
-
-    #!/bin/bash
 
     export MY_FOO_ENV=bar
     echo MY_FOO_ENV=$MY_FOO_ENV
