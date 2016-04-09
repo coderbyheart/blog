@@ -11,8 +11,8 @@ tags:
 When developing stateless microservices it can be tedious to set up the correct environment variables.
 You can teach your bash/zsh to load them on a per directory basis.
 
-If you add this to your `.bashrc` or `.zshrc.local` a file called `.env` will be sourced if it is present
-in the directory you are cd-ing into:
+If you add this to your `.bashrc` or `.zshrc.local` environment variables will be set from a file called 
+`.env` if it is present in the directory you are cd-ing into:
 
     function readEnv
     {
