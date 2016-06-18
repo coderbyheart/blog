@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Erfolg mit Menschlichkeit: Die Autobiografie des dm-Gründers Götz W. 
-Werner"
+title:  "Success through humanness: The autobiografie by dm founder Götz W. Werner"
 date:   2016-06-18 08:00:00
 excerpt: > #
 categories:
 - organizations
 - futurofwork
 - books
-permalink: erfolg-mit-menschlichkeit
+permalink: success-through-humanness
 ---
 
 ![Womit ich nie gerechnet habe](/uploads/2016/werner-wingh.jpg)
