@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Success through humanness: The autobiografie by dm founder Götz W. Werner"
+title:  "Success through humanness: The autobiography by dm founder Götz W. Werner"
 date:   2016-06-18 08:00:00
 excerpt: > #
+  I recommend this book to everyone who is facing problems like high turnover
+  rates, inefficiency due to bureaucracy and incompetence or is, like me,
+  interested in alternative operating-systems for organizations.
 categories:
 - organizations
 - futurofwork
