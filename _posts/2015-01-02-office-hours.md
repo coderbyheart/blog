@@ -15,7 +15,7 @@ Even if I believe that Rhein-Main neither can *nor should* follow Berlin's lead 
 
 That's why I'll offer free bimonthly office hours either on Google Hangout or at the Coworking Space [Die Zentrale][3] in Frankfurt Bornheim Mitte starting January 2015. Talk to me about technology, building software, managing teams or your organization, whether you have a vague idea or a specific problem. And if I can't help you I'll probably know someone who does.
 
-Email me at [m@cto.hiv][2] with a short intro and a link to your LinkedIn or XING profile and pick a free slot and I'll get back to you to confirm our meeting.
+Email me at [m@coderbyheart.com][2] with a short intro and a link to your LinkedIn or XING profile and pick a free slot and I'll get back to you to confirm our meeting.
 
  1. Thursday, Jan 22nd 2015: taken ([How to write a CTO job posting](/how-to-find-a-cto))
  2. Thursday, Feb 5th 2015, taken (App-Feedback for [talkREAL](/uploads/2015/01/talkREAL_App_PitchDeck_Tech_Short_vcR10.pdf))
@@ -27,5 +27,5 @@ There are no strings attached.
 *Update March 22nd 2015:* I've discontinued the office hours. Learn why, [here](/office-hours-discontinued).
 
 [1]: http://rheinmain.startupweekend.org/
-[2]: mailto:m@cto.hiv?subject=Office+Hours
+[2]: mailto:m@coderbyheart.com?subject=Office+Hours
 [3]: http://www.die-zentrale-ffm.de/

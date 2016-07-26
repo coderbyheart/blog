@@ -10,7 +10,7 @@ permalink: topconf-linz-2016
 ---
 
 I'm just returning from [TopConf Linz 2016](http://topconf.com/linz-2016/) which was my first tech conference that I 
-visited as a speaker. I do have [quite some speaking](https://cto.hiv/#talks) experience but with shorter talks, usually 
+visited as a speaker. I do have [quite some speaking](https://coderbyheart.com/#talks) experience but with shorter talks, usually 
 around 15 minutes, and in front of an audience that does not pay to attend the event. With a ticket price of €220 this 
 conference is no where near your usual €1,500+ that some of the bigger conferences call up but still, not a *free* 
 event. I did visit some similar priced conferences in the past, like the 

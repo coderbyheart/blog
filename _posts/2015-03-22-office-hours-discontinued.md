@@ -28,4 +28,4 @@ and you'll get even more in return.
 Nevertheless, I'm not totally bailing out on the office hours.  
 Just [write me an email][1] and I'll try to help you.
 
-[1]: mailto:m@cto.hiv
+[1]: mailto:m@coderbyheart.com

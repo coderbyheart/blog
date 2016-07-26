@@ -20,6 +20,6 @@ Head over to [mydotfor.hiv/dothivify](http://mydotfor.hiv/dothivify/) to downloa
 
 As always with our projects at dotHIV the source code [is available at GitHub](https://github.com/dothiv/dothivify).
 
-Please let me know in the comments or by your [preferred means of communication](http://cto.hiv/en) once you've got the script running.
+Please let me know in the comments or by your [preferred means of communication](http://coderbyheart.com/en) once you've got the script running.
 
 Thank your for supporting [dotHIV](http://click4life.hiv/)!

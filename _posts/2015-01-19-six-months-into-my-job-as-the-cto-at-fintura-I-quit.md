@@ -20,7 +20,7 @@ But in every bad experience there are still things to learn. In no particular or
 
 * culture: I only want to work with a CEO that I have genuine sympathy for
 * values: I need to put more effort into making sure that our goals align (go read [The Big Five for Life](http://amzn.to/1RRg7Nw)) and 
-  happiness (or [joy](http://blog.cto.hiv/joy-inc/)) is a core value
+  happiness (or [joy](http://blog.coderbyheart.com/joy-inc/)) is a core value
 * freedom: I work remotely from day one
 
 Still today I'm struggling with the experiences I made last year. I lost a fair share of trust in people but gained a lot of

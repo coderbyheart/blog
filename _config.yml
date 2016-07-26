@@ -1,5 +1,5 @@
 baseurl: ""
-url: https://blog.cto.hiv
+url: https://blog.coderbyheart.com
 lang: en
 timezone: Europe/Berlin
 
@@ -14,8 +14,8 @@ harmony:
   basetheme: harmony
   author:
     name: Markus Tacker
-    email: m@cto.hiv
-    url: https://cto.hiv/
+    email: m@coderbyheart.com
+    url: https://coderbyheart.com/
   social:
     github: coderbyheart
     twitter: coderbyheart
@@ -42,4 +42,4 @@ sass:
     sass_dir: assets/css/_sass
     style: :compressed
 
-google_site_verification: 7At6JPcFhF9xQRWVJNjHqfmmp6SJqHlEFgfQmaNl1dw
+google_site_verification: anJEIOoin7qq0c8P4s3ajkPz518xhhbYQvlpSg97-p8
