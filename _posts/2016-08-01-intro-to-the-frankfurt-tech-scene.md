@@ -14,7 +14,9 @@ categories:
 permalink: intro-to-the-frankfurt-tech-scene
 ---
 
-This post tries to provide an entry point for newcomers the the tech scene
+![Intro to the Frankfurt Tech scene](/uploads/2016/tech-scene-frankfurt.jpg)
+
+This post tries to provide an entry point for newcomers to the tech scene
 in Frankfurt.
 
 To get to know your locals, join the [{fradev} Slack channel](https://fradev.herokuapp.com/).
