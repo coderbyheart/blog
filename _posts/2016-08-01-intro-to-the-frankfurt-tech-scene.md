@@ -50,16 +50,16 @@ with.
 
 If you are a remote coder like me and in need of an awesome place to work 
 from, come visit me for a coffee at [Die Zentrale Coworking](https://www.die-zentrale-ffm.de/) 
-located in Bornheim Mitte which is the Friedrichshein of Frankfurt. 
+located in Bornheim Mitte which is the Friedrichshain of Frankfurt. 
 Zentrale offers coworking plans from €90/mo with great coffee and 
 awesome coworkers.
 
-If you want to learn more about Frankfurt in general, check out 
-[hallofrankfurt.de](https://hallofrankfurt.de/), written by and for 
+To learn more about Frankfurt in general, check out
+[hallofrankfurt.de](https://hallofrankfurt.de/), written by and for
 Hipsters.
 
 That should give you a good head start … but if there is anything 
-important that I've missed, please drop me a comment, [tweet](https://twitter.com/coderbyheart) 
+important that I've missed, please drop me a comment, [tweet me](https://twitter.com/coderbyheart) 
 or [mail me](mailto:m@coderbyheart.com)!
 
 P.S.: Arguably Frankfurt is just the center of the rural area we call 
