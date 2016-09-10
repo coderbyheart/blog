@@ -3,7 +3,7 @@ layout: post
 title:  "An Everyone Culture"
 date:   2016-09-10 16:00:00
 excerpt: > #
-  Book review of &amp;An Everyone Culture&amp; by Robert Kegan and Lisa Laskow Lahey
+  Book review of An Everyone Culture by Robert Kegan and Lisa Laskow Lahey
 categories:
 - organizations
 - futureofwork

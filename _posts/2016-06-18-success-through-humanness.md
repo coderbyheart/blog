@@ -3,7 +3,7 @@ layout: post
 title:  "Success through humanness: The autobiography by dm founder Götz W. Werner"
 date:   2016-06-18 08:00:00
 excerpt: > #
-  Book review of &amp;Womit ich nie gerechnet habe&amp; by Götz W. Werner.  
+  Book review of Womit ich nie gerechnet habe by Götz W. Werner.  
   I recommend this book to everyone who is facing problems like high turnover
   rates, inefficiency due to bureaucracy and incompetence or is, like me,
   interested in alternative operating-systems for organizations.
