@@ -2,7 +2,8 @@
 layout: post
 title:  "Daring Greatly: Talking about shame is inevitable if we want to change"
 date:   2016-03-13 16:30:00
-excerpt: > #
+excerpt: > # 
+  Book review of "Daring Greatly" by Brené Brown 
 categories:
 - organizations
 - futurofwork

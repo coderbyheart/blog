@@ -2,7 +2,8 @@
 layout: post
 title:  "The Hard Things About Hard Things"
 date:   2016-06-12 16:00:00
-excerpt: > #
+excerpt: > # 
+  Book review of "The Hard Things About Hard Things" by Ben Horowitz
 categories:
 - organizations
 - leadership
