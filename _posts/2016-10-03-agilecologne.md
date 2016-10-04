@@ -40,7 +40,7 @@ their agile projects mainly for two reasons that are driven by management
 1. increase the output of IT projects, 
 2. make more profit. 
 
-Oftentimes it seems to be a decision based on heresay (["We've heard 
+Oftentimes it seems to be a decision based on hearsay (["We've heard 
 about this new thing, that everyone else does, so lets do it, 
 too!"][gap]). Improving product quality and customer satisfactions 
 rarely are the driving factors nor is improving the working conditions 
@@ -54,7 +54,7 @@ with the success of the project using a new way to work with which they
 have no experience but with leading the implementing agile within the 
 whole organization. 
 
-These endeavours are bound to fail and the failure will be attributed to
+These endeavors are bound to fail and the failure will be attributed to
 shortcomings of the agile methodology and not to the inability of 
 classical, hierarchical structures to support agile teams at all.
 
@@ -62,13 +62,13 @@ To ask for advice how to make these agile teams or projects "work" in
 these circumstances is one option, but that does not fix the root cause 
 of the problem: the organization itself.
 
-At Resourceful Humans we transform organizations into a network of 
+At [Resourceful Humans][RH] we transform organizations into a network of 
 entrepreneurs which is an enabler for agility, self-organisation and 
 creates a focus on delivering customer value. These are environments
 in which agile teams can thrive and will be successful. 
 
 So I set out and collected problems agile teams face in order to show,
-that there are indeed solutions to thes problem, but they usually are 
+that there are indeed solutions to these problem, but they usually are 
 not that obvious and need to be applied at a different level in order
 to become effective.
 
