@@ -3,7 +3,7 @@ layout: post
 title:  "Agile as a starter for organizational transformation?"
 date:   2016-10-03 18:00:00
 excerpt: > #
-  Impression from the Agile Cologne XXL 2016
+  Impressions from the Agile Cologne XXL 2016
 categories:
 - conferences
 - agile
