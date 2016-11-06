@@ -22,4 +22,4 @@ This book is fascinating and provides in many anecdotes an insight into a truly 
 P.S.: The [RH-Way][RH] is heavily influenced by the Semco way. We can help you turn your organization into a network of entrepreneurs.
 
 [sdw]: http://amzn.to/2fdxqrD
-[RH]: http://www.resourceful-humans.com/?utm_source=blog&utm_medium=coderbyheart
+[RH]: http://www.resourceful-humans.com/?utm_source=coderbyheart&utm_medium=blogpost&utm_campaign=the-seven-day-weekend

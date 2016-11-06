@@ -55,4 +55,4 @@ P.S.: [We][RH] can help you to put the human back into your organization.
 
 [1]: http://amzn.to/1YyyHvl
 [2]: https://en.wikipedia.org/wiki/Anthroposophy
-[RH]: http://www.resourceful-humans.com/
+[RH]: http://www.resourceful-humans.com/?utm_source=coderbyheart&utm_medium=blogpost&utm_campaign=success-through-humanness

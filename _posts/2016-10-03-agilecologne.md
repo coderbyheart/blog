@@ -101,4 +101,4 @@ agile projects that they need!
 [gap]: http://geek-and-poke.com/geekandpoke/2016/4/26/finally-agile
 [probs]: https://www.flickr.com/photos/tacker/29994987272/in/album-72157671333742283/
 [solution]: https://www.flickr.com/photos/tacker/29481083554/in/album-72157671333742283/
-[RH]: http://www.resourceful-humans.com/
+[RH]: http://www.resourceful-humans.com/?utm_source=coderbyheart&utm_medium=blogpost&utm_campaign=agile-cologne-xxl-2016

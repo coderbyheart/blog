@@ -29,4 +29,4 @@ P.S.: [We][RH] can help you to turn your organization into a deliberately develo
 
 [1]: https://www.amazon.de/dp/1625278624/ref=cm_sw_r_tw_dp_x_Zrb1xbW37FWHT
 [2]: http://mindsatwork.com/who-we-are/
-[RH]: http://www.resourceful-humans.com/
+[RH]: http://www.resourceful-humans.com/?utm_source=coderbyheart&utm_medium=blogpost&utm_campaign=an-everyone-culture
