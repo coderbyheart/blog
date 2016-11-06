@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "The Seven-Day Weekend"
+date:   2016-11-06 10:00:00
+excerpt: > #
+  Ricardo Semler debunks an illusion: the idea that you can plan for the future.
+categories:
+- organizations
+- futureofwork
+- books
+permalink: the-seven-day-weekend
+---
+
+![The Seven-Day Weekend](/uploads/2016/seven-day-weekend.jpg)
+
+In [The Seven Day Weekend][sdw], Ricardo Semler explains in plain english his very pragramtic aproach to building a company that survives radical market transformations while keeping its employees fully invested in constant improvemenents, change and new ventures. His philosophy is radical: if a problem or conflict arises, *do nothing*. Given enough trust, information and time, the employess will find a solution to any problem that might not always be better then one thought up by top-level managers but always will find a broad acceptance within the workforce and thus getting accepted and integrated as quickly as possible.
+
+What is also clear, though, it's hard to run a company after Semcos example: removing artifical growth goals, not being able to control everything, and trusting your employees and their instincts is nothing todays managers are prepared for. Schools, universities and companies are systems that still teach the opposite of what Ricardo Semler so easily debunks as an illusion: the idea that you can plan for the future.
+
+This book is fascinating and provides in many anecdotes an insight into a truly new way of managing organizations, and that is what makes it so powerful. Semco is proof that there are robust and successfull alternatives to command-and-control-structures.
+
+P.S.: The [RH-Way][RH] is heavily influenced by the Semco way. We can help you turn your organization into a network of entrepreneurs.
+
+[sdw]: http://amzn.to/2fdxqrD
+[RH]: http://www.resourceful-humans.com/?utm_source=blog&utm_medium=coderbyheart
