@@ -25,7 +25,7 @@ out concrete exercises to implement what Marquet developed: intent-based leaders
 
 ## Intent-based leadership
 
-The method is essentially a helper to codify behavioural change throughout an entire organization.
+The method is essentially a helper to codify behavioral change throughout an entire organization.
 By making decisions observable by others it enables the transfer of decision making power to
 &quot;lower&quot; levels; which is what you want in any complex and complicated environment today.
 By *pushing authority to information*, as Marquet calls it, decisions are made where they need to be
