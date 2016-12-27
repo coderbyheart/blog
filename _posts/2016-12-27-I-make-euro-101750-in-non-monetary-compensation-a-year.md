@@ -12,8 +12,6 @@ categories:
 permalink: I-make-euro-101750-in-non-monetary-compensation-a-year
 ---
 
-*(Draft)*
-
 Salary is probably one of the most dreadful topics, especially because it is a [hygiene factor][HF]: earning *not enough* money will affect your satisfaction greatly, but earning more than you need won't improve your performance equally strong.
 
 ## What is enough?
@@ -30,10 +28,43 @@ It's important to remember: monetary compensation has no benefit, above the indi
 
 Organzations can even overcompensate there, and this is what this blog post is about. Don't get me wrong, it's not about sugarcoating low salaries by just giving them another name. It's about understanding that the money a company spends on salary can be spent—in parts—in better ways. For companies this can make a big difference, increase your runway (the amount of time until your startup goes out of business), hire more talent, invest more in new products, etc.
 
+## I make €101,750 in non-monetary compensation a year
+
 There is real money to make, if you find the perks, that really matter (not foosball tables and fruit baskets). To give you a concrete example, I compiled the list of my non-monetary compensations and assigned a pricetag to them.
+
+| Perk | Pricetag (€/year) |
+|------|---------:|
+| Shares (real shares, not VESOP) | 20,000 |
+| Work where I want (no commute!) | 10,000 |
+| A job with a purpose (we turn organizations into a place where people love to work) | 10,000 |
+| Awesome team | 10,000 |
+| No estimates | 5,000 |
+| Unlimited vacation | 5,000 |
+| Being my own boss (work self-directed, voluntarily, how and when I want) | 5,000 |
+| No stupid meetings | 5,000 |
+| Working with tech I love | 5,000 |
+| The hardware I want | 3,000 |
+| Conference + Usergroups expenses covered | 2,500 |
+| Getting to meet awesome people | 2,500 |
+| 0% Bureacracy | 2,500 |
+| No VC-Invest | 2,500 |
+| No stupid KPIs | 2,500 |
+| Customer-driven development | 2,500 |
+| Never wear a suit | 2,000 |
+| No politics | 1,500 |
+| Google Docs | 1,200 |
+| Slack (No more emails) | 1,200 |
+| Transparency | 1,000 |
+| Company Phone Plan | 600 |
+| No timetracking | 500 |
+| Company Credit Card (no questions asked expenses) | 500 |
+| Bahncard 50 | 250 |
+
+**The total of the list above sums up to €101,750 per year in non-monetary compensation!** Which makes me a happy man to get a compensation in total which is way above the market average for a comparable position.
 
 The tricky part is, especially when talking to developers: they are bird-in-the-hand-people and it will take some effort to have this talk about a lower-then-average fixed salary with them. This will greatly affect your hiring, especially if you are secretive about your organization. Because no one will believe the advertorial speak of a founder because of what I described earlier: they expect tactics to reduce salary behind it. A better aproach will be to be open about your culture and encourage your employees to evangalize working at your company. See? Openness and transparency, they are key for the next generation of organizations.
 
+Yes, some of the perks listed above are real spendings for the company, but the net-worth of an Euro spent there is €1 compared to an Euro spent with my net salary will equal roughly €0.49. So in the end, both the company and me will benefit greatly from having this discussion.
 
 [RH]: http://www.resourceful-humans.com/?utm_source=coderbyheart&utm_medium=blogpost&utm_campaign=I-make-euro-101750-in-non-monetary-compensation-a-year
 [HF]: https://en.wikipedia.org/wiki/Two-factor_theory
