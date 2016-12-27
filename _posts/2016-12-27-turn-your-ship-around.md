@@ -43,7 +43,7 @@ that can be executed in a few minutes and yield material for your team right awa
 applicable, that no trainer is need, and there are companies that just by following the book, have
 saved hundreds of million $.
 
-It not only tackles the common decision fatique in organizations where it's more important to not
+It not only tackles the common decision fatigue in organizations where it's more important to not
 make an error then to make a bold move but makes you discover invisible red-tape, which alone are
 potentially limiting your ability to innovate and create compelling products.
 
