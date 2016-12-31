@@ -40,7 +40,7 @@ This also favors employees that can afford to work overtime, usually single, you
 
 ## This is insanity. 
 
-But what is even worth is his idea that the network part is entirely dependent on the benevolence of the left side, because it has no budget on its own, and network members still need to fulfill their left-side duties and are subject to left-side performance management processes. 
+But what is even worse is his idea that the network part is entirely dependent on the benevolence of the left side, because it has no budget on its own, and network members still need to fulfill their left-side duties and are subject to left-side performance management processes. 
 
 > *Q: How do I keep enthusiastic volunteers from shirking their regular jobs?*  
 > A: A well-run hierarchy does not allow this. The whole system of bosses, measurements, performance appraisals, and accountability catches and corrects shirking.
