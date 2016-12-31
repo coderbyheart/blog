@@ -3,7 +3,7 @@ layout: post
 title:  "Why I threw up in my mouth when reading Accelerate (XLR8) by John Kotter"
 date:   2016-12-31 12:00:00
 excerpt: > #
-  Asking your employees to *think different* for a better
+  Asking your employees to think different for a better
   goal and simultaneously forcing them to follow the old, 
   left-side methods, which the right-side is trying to get 
   rid of, is nothing but insanity.
