@@ -196,12 +196,14 @@ header.main-header {
   color: $base-00;
   border-top: 5px $base-00 solid;
 
-  h1, h2 { text-align: center; color: inherit;}
-  a {
-    color: inherit;
-    &:hover, &:active, &:focus {
-      border-bottom-color: transparent;
-    }
+  h1, h2, p { text-align: center; color: inherit;}
+
+  p {
+      @include MQ(M) {
+        width: 75%;
+        margin-left: 12.5%;
+      }
+
   }
 
   ul {
