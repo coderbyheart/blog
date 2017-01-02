@@ -64,6 +64,8 @@ The tricky part is, especially when talking to developers: they are bird-in-the-
 
 Yes, some of the perks listed above are real spendings for the company, but the net-worth of an Euro spent there is €1 compared to an Euro spent with my net salary will equal roughly €0.49. So in the end, both the company and me will benefit greatly from having this discussion.
 
+P.S.: [We][RH] are a contribution-based, liquid, network organization. That means we are always open for proposals. So, get in touch, if you would love to work the way I do. 
+
 [RH]: http://www.resourceful-humans.com/?utm_source=coderbyheart&utm_medium=blogpost&utm_campaign=I-make-euro-101750-in-non-monetary-compensation-a-year
 [HF]: https://en.wikipedia.org/wiki/Two-factor_theory
 [GS]: https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/VerdiensteArbeitskosten/VerdiensteVerdienstunterschiede/Tabellen/Bruttomonatsverdienste.html
