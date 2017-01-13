@@ -23,7 +23,7 @@ There is a [code of conduct for the cabal](http://confcodeofconduct.com/index.ht
 
 ### 1. Create a PR
 
-To participate you need to [create a pull request](https://github.com/coderbyheart/blog/edit/master/rheinmain-tech-cabal.md) and add yourself to the participants list. Only if your PR gets merged you will receive the event details (steps 2 and 3 need to be completed, too). 
+To participate you need to [create a pull request](https://github.com/coderbyheart/blog/edit/gh-pages/rheinmain-tech-cabal.md) and add yourself to the participants list. Only if your PR gets merged you will receive the event details (steps 2 and 3 need to be completed, too). 
 
 ### 2. Find a reference
 
