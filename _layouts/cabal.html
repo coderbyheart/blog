@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{% if page.lang %}{{ page.lang }}{% else %}{{ site.lang }}{% endif %}">
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="{{ page.excerpt  | strip_html }}">
+        <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
+        <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+        <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/cabal.css">
+
+        {% include social-meta.html %}
+    </head>
+    <body>
+        {{ content }}
+        {% include font.html %}
+    </body>
+</html>
