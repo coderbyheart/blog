@@ -1,6 +1,9 @@
 ---
 layout: cabal
 title: RheinMain Tech Cabal
+photo: https://blog.coderbyheart.com/uploads/2017/cabal.jpg
+excerpt: > #
+  an evening in the week of March 13th to 19th 2017 / just drinks and discussion
 ---
 
 # RheinMain Tech Cabal
