@@ -47,6 +47,8 @@ All excess funds and remaining funds for diversity tickets will be donated to [T
  * [Garrit Schaap](https://twitter.com/pixelkind)
  * [Franziska](https://twitter.com/junewebdev)
  * [Nicolas Bös](https://twitter.com/ntboes)
+ * [Markus M. May](http://www.javafreedom.org)
+
 ---
 
 RheinMain Tech Cabal is organized by [Markus Tacker](https://coderbyheart.com/).
