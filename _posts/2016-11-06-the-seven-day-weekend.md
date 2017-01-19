@@ -11,7 +11,7 @@ categories:
 permalink: the-seven-day-weekend
 ---
 
-![The Seven-Day Weekend](/uploads/2016/seven-day-weekend.jpg)
+![The Seven-Day Weekend]({{ site.url }}/uploads/2016/seven-day-weekend.jpg)
 
 In [The Seven Day Weekend][sdw], Ricardo Semler explains in plain english his very pragmatic approach to building a company that survives radical market transformations while keeping its employees fully invested in constant improvements, change and new ventures. His philosophy is radical: if a problem or conflict arises, *do nothing*. Given enough trust, information and time, the employees will find a solution to any problem that might not always be better then one thought up by top-level managers but always will find a broad acceptance within the workforce and thus getting accepted and integrated as quickly as possible.
 
