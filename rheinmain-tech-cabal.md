@@ -1,4 +1,3 @@
-
 ---
 layout: cabal
 title: RheinMain Tech Cabal
