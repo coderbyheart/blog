@@ -43,6 +43,7 @@ All excess funds and remaining funds for diversity tickets will be donated to [T
 
  * [Markus Tacker](https://coderbyheart.com/)
  * [Tobias Kommerell](https://twitter.com/schinkenstrudel)
+ * [Silvia Hundegger](https://twitter.com/silviahundegger)
 
 ---
 
