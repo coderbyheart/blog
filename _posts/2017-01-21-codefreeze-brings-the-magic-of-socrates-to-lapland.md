@@ -7,6 +7,7 @@ excerpt: > #
 categories:
 - softwarecraftsmanship
 - conferences
+- codefreeze
 permalink: codefreeze-brings-the-magic-of-socrates-to-lapland
 ---
 
@@ -31,6 +32,8 @@ The trips would take you to the area around which offers a lot of variety: dense
 ## The codefreeze unconference
 
 To be honest, we never planned to make this trip about the conference, it was a great occasion to be there but it was clear that this would be more of a leasure trip, which is why I didn't make this trip on the company budget. But we had three and a half days, starting on Monday afternoon where we had a *proper* unconference, you can see for yourself [on the trello board for the week][timetable], given the small group—around 20 attendees—we still managed to fill the timetable with a great variety of topics. But a lot of discussion happened outside of the sessions and that's what made it especially great to be here. Although you had so many outdoor activities, everybody would always return to the main building for food, or the sauna, or some of the cabins where the discussions continued or new topics arised.
+
+For me it was the best conference experience I could imagine and it was also the best winter vacation I ever had. We will definetly return to Kiilopää and not only during codefreeze season but also in the summer, to hike in the woods there from hut to hut. I'm very grateful for Aki adding this experience to my life. I will never forget my first codefreeze.
 
 [kiilopaa]: http://www.kiilopaa.fi/en/home.html
 [cf]: http://codefreeze.fi
