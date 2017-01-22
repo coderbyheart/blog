@@ -45,6 +45,7 @@ All excess funds and remaining funds for diversity tickets will be donated to [T
  * [Tobias Kommerell](https://twitter.com/schinkenstrudel)
  * [Silvia Hundegger](https://twitter.com/silviahundegger)
  * [Garrit Schaap](https://twitter.com/pixelkind)
+ * [Ruben Bridgewater](https://twitter.com/bridgear)
 
 ---
 
