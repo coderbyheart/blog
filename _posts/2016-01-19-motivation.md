@@ -15,14 +15,14 @@ permalink: motivation
 *Tobias Zander has written a blog post about 
 [Motivation of software engineers](http://www.travelling-developer.com/2016/01/motivation-of-software-engineers/). This is what motivates me:*
 
-[![Happieness](/uploads/dilbert-happy-2015-10-16.gif)](http://dilbert.com/strip/2015-10-16)
+[![Happieness]({{ site.url }}/uploads/dilbert-happy-2015-10-16.gif)](http://dilbert.com/strip/2015-10-16)
 
 ## Freedom
 
 Being once again in the situation of looking for my next job this question is a very important one to answer. I can earn money by 
 taking on a lot of roles—the possibilities are endless. For me it is therefore important to **know** or at least believe to know
-what my day to day work should look like. In the past, I've already written about [what I am looking for in an employer](/leaving-dothiv) 
-and gave advice on [How to find a CTO](/how-to-find-a-cto); both posts emphasize on the *circumstances* that create great 
+what my day to day work should look like. In the past, I've already written about [what I am looking for in an employer]({{ site.url }}/leaving-dothiv) 
+and gave advice on [How to find a CTO]({{ site.url }}/how-to-find-a-cto); both posts emphasize on the *circumstances* that create great 
 working environments. And for me a great working environment *is* a great motivator. If you read them, you'll see that I strive 
 to work in an environment where I am trusted and have the tools I need. But personal freedom in deciding
 where and when I work is *the* most important factor of motivation for me. 

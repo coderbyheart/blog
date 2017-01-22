@@ -17,7 +17,7 @@ Trotzdem ist sind diese Vergleiche immer wieder faszinierend. Gestern bin ich ü
 
 Was mich bei den dort gezeigten Zahlen extrem stutzig gemacht hat, war das miserable Abschneiden der PHP-Frameworks und besonders von Symfony2, obwohl der Tester darauf geachtet hat, APC zu aktivieren. Um diese Zahlen zu verifizieren habe ich einen eigenen Test mit [Silex][2] (dem kleinen Bruder von [Symfony2][3]) aufgesetzt. Den Quellcode dazu findet sich in [diesem Pull-Request][4]. Da ich inzwischen auch ein großer Fan von Python bin und sich zudem noch die Philosophie von [Bottle][5] und Silex sehr ähneln, habe ich dieses Framework zum Vergleich genommen. Beide Frameworks sind als Virtual Host konfiguriert, und werden mit Apache Bench *ab -n 10000 -c 10* aufgerufen. Die Ergebnisse sprechen für sich. Mit Templating-Engine und Datenbank-Zugriff liefert Bottle 16.632 Anfragen pro Sekunde aus, Silex lediglich 378.
 
-<img src="https://docs.google.com/spreadsheet/oimg?key=0AtTPpgm7INxMdFVhamJOZ0N5YzVtMW80TEx2akljdEE&#038;oid=1&#038;zx=1joaj0cdr67a" width="480" />
+<img src="https://docs.google.com/spreadsheet/oimg?key=0AtTPpgm7INxMdFVhamJOZ0N5YzVtMW80TEx2akljdEE&#038;oid=1&#038;zx=1joaj0cdr67a" alt="The Great Web Framework Shootout: Bottle vs. Silex" width="480" />
 
 *Micro* bedeutet also nicht immer hohe Geschwindigkeit.
 

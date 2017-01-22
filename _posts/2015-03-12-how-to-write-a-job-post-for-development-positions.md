@@ -49,4 +49,4 @@ But don't forget that this is only a small part of the things you have to do to 
 
 ## Update
 
-I now work as [the CTO at Fintura](/one-month-into-my-new-job-as-the-cto-at-fintura) and one of my first tasks was to write our job postings. I tried to integrate all my tips from above into them. You can find the result on [angel.co](https://angel.co/fintura/jobs).
+I now work as [the CTO at Fintura]({{ site.url }}/one-month-into-my-new-job-as-the-cto-at-fintura) and one of my first tasks was to write our job postings. I tried to integrate all my tips from above into them. You can find the result on [angel.co](https://angel.co/fintura/jobs).
