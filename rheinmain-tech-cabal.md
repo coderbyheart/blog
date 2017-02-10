@@ -50,6 +50,8 @@ All excess funds and remaining funds for diversity tickets will be donated to [T
  * [Markus M. May](http://www.javafreedom.org)
  * [Mario Hachemer](https://twitter.com/roritharr)
  * [Andy Scherzinger](https://twitter.com/AndyScherzinger)
+ * [Verena Brodbeck](https://twitter.com/viddity)
+ 
  
 ---
 
