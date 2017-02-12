@@ -53,7 +53,8 @@ All excess funds and remaining funds for diversity tickets will be donated to [T
  * [Mario Hachemer](https://twitter.com/roritharr)
  * [Andy Scherzinger](https://twitter.com/AndyScherzinger)
  * [Axel Irriger](https://twitter.com/AxelIrriger)
- 
+ * [Verena Brodbeck](https://twitter.com/viddity)
+
 ---
 
 RheinMain Tech Cabal is organized by [Markus Tacker](https://coderbyheart.com/).
