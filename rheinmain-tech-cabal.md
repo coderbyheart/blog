@@ -6,6 +6,8 @@ excerpt: > #
   an evening in the week of March 13th to 19th 2017 / just drinks and discussion
 ---
 
+![RheinMain Tech Cabal](/uploads/2017/rheinmain-tech-cabal.svg)
+
 # RheinMain Tech Cabal
 
 *an evening in the week of March 13th to 19th 2017*  
