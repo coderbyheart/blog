@@ -54,6 +54,7 @@ All excess funds and remaining funds for diversity tickets will be donated to [T
  * [Andy Scherzinger](https://twitter.com/AndyScherzinger)
  * [Axel Irriger](https://twitter.com/AxelIrriger)
  * [Verena Brodbeck](https://twitter.com/viddity)
+ * [Lisa Oppermann](https://twitter.com/graefin_senil)
 
 ---
 
