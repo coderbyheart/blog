@@ -3,21 +3,20 @@ layout: cabal
 title: RheinMain Tech Cabal
 photo: https://blog.coderbyheart.com/uploads/2017/cabal.jpg
 excerpt: > #
-  an evening in the week of March 13th to 19th 2017 / just drinks and discussion
+  just drinks and discussion on the evening of March 15th 2017
 ---
 
 ![RheinMain Tech Cabal](/uploads/2017/rheinmain-tech-cabal.svg)
 
 # RheinMain Tech Cabal
 
-*an evening in the week of March 13th to 19th 2017*  
+*on the evening of March 15th 2017*  
 *no presentations, recruiters, or sales*  
 *just drinks and discussion*
 
-The RheinMain Tech Cabal is a closed space for tech people to engage in deep conversations. It will happen on an evening during the week of March 13th to 19th in Frankfurt within the subway grid. The exact day and place will be announced one day before via email.
+The RheinMain Tech Cabal is a closed space for tech people to engage in deep conversations. It will happen on the evening of March 15th 2017 in Frankfurt within the subway grid. The exact place will be announced on the day via email.
 
 Questions? Ping me on [Twitter](https://twitter.com/coderbyheart) or on the [{fradev} slack](https://fradev.herokuapp.com/).
-
 
 ## Tickets
 
