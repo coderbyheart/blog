@@ -22,6 +22,10 @@ Questions? Ping me on [Twitter](https://twitter.com/coderbyheart) or on the [{fr
 
 There is a [code of conduct for the cabal](http://confcodeofconduct.com/index.html). You better read it.
 
+Please also note, that the [Chatham House Rules](https://de.wikipedia.org/wiki/Chatham_House_Rule) apply to this event. 
+
+No photos must be taken without the explicit consent of the participants.
+
 ### 1. Create a PR
 
 To participate you need to [create a pull request](https://github.com/coderbyheart/blog/edit/gh-pages/rheinmain-tech-cabal.md) and add yourself to the participants list. Only if your PR gets merged you will receive the event details (steps 2 and 3 need to be completed, too). 
