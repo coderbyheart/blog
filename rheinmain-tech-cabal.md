@@ -55,6 +55,7 @@ All excess funds and remaining funds for diversity tickets will be donated to [T
  * [Verena Brodbeck](https://twitter.com/viddity)
  * [Lisa Oppermann](https://twitter.com/graefin_senil)
  * [Harald Kirkerød](https://twitter.com/haraball)
+ * [Niklas Lochschmidt](https://twitter.com/niklas_l)
 
 ---
 
