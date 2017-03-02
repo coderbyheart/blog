@@ -62,6 +62,7 @@ All excess funds and remaining funds for diversity tickets will be donated to [T
  * [Niklas Lochschmidt](https://twitter.com/niklas_l)
  * [Steffen Glomb](https://twitter.com/SteffenGlomb)
  * [Seif Lotfy](http://seif.codes)
+ * [Svenja Wagner](https://twitter.com/mimamurmel)  
 
 ---
 
