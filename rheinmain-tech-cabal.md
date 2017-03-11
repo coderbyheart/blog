@@ -18,7 +18,7 @@ The RheinMain Tech Cabal is a closed space for tech people to engage in deep con
 
 Questions? Ping me on [Twitter](https://twitter.com/coderbyheart) or on the [{fradev} slack](https://fradev.herokuapp.com/).
 
-## Tickets
+## Participation and Tickets
 
 There is a [code of conduct for the cabal](http://confcodeofconduct.com/index.html). You better read it.
 
