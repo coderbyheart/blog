@@ -62,8 +62,7 @@ To ask for advice how to make these agile teams or projects "work" in
 these circumstances is one option, but that does not fix the root cause 
 of the problem: the organization itself.
 
-At [Resourceful Humans][RH] we transform organizations into a network of 
-entrepreneurs which is an enabler for agility, self-organisation and 
+Network organizations are an enabler for agility, self-organisation and 
 creates a focus on delivering customer value. These are environments
 in which agile teams can thrive and will be successful. 
 
@@ -91,9 +90,6 @@ symptoms.
 You can't just plant an agile project into your organization without 
 providing the grounds for it to grow roots.
  
-P.S.: [We][RH] can help your organization to provide the support for 
-agile projects that they need!
-
 [1]: http://agilecologne.de/
 [2]: http://agilemanifesto.org/
 [su]: https://www.flickr.com/photos/tacker/30109096515/in/album-72157671333742283/
@@ -101,4 +97,3 @@ agile projects that they need!
 [gap]: http://geek-and-poke.com/geekandpoke/2016/4/26/finally-agile
 [probs]: https://www.flickr.com/photos/tacker/29994987272/in/album-72157671333742283/
 [solution]: https://www.flickr.com/photos/tacker/29481083554/in/album-72157671333742283/
-[RH]: http://www.resourceful-humans.com/?utm_source=coderbyheart&utm_medium=blogpost&utm_campaign=agile-cologne-xxl-2016

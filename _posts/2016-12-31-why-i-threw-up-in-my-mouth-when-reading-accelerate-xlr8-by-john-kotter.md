@@ -60,8 +60,5 @@ I doubt that the Dual Operating System is sustainable. Kotter never gives the im
 
 I can only recommend this book for Kotter’s explanations on how to start and structure an initiative that kick-starts a network organization. But the execution he describes is dangerous in its shortsightedness and contradiction.
 
-P.S.: At [Resourceful Humans][RH] we have a proven track record of turning organizations into a network. Contact us to start your transformation into a true, unlimited network.
-
-[RH]: http://www.resourceful-humans.com/?utm_source=coderbyheart&utm_medium=blogpost&utm_campaign=why-i-threw-up-in-my-mouth-when-reading-accelerate-xlr8-by-john-kotter
 [photo]: https://farm1.staticflickr.com/482/31850193932_79e83aaf19_z_d.jpg
 [book]: http://amzn.to/2iid1Wv 

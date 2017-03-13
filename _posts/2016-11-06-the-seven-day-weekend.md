@@ -19,7 +19,4 @@ What is also clear, though, it's hard to run a company after Semcos example: rem
 
 This book is fascinating and provides in many anecdotes an insight into a truly new way of managing organizations, and that is what makes it so powerful. Semco is proof that there are robust and successful alternatives to command-and-control-structures.
 
-P.S.: The [RH-Way][RH] is heavily influenced by the Semco way. We can help you turn your organization into a network of entrepreneurs.
-
 [sdw]: http://amzn.to/2fdxqrD
-[RH]: http://www.resourceful-humans.com/?utm_source=coderbyheart&utm_medium=blogpost&utm_campaign=the-seven-day-weekend

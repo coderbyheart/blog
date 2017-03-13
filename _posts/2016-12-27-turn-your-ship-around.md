@@ -50,7 +50,4 @@ potentially limiting your ability to innovate and create compelling products.
 The most important aspect of intent-based leadership in my opinion is that it establishes deliberate
 learning towards a common goal which enables organizations to grow and become truly agile.
 
-P.S.: If you need support turning your organization around nevertheless, [We][RH] can help you!
-
-[RH]: http://www.resourceful-humans.com/?utm_source=coderbyheart&utm_medium=blogpost&utm_campaign=turn-your-ship-around
 [DM]: http://www.davidmarquet.com/?utm_source=coderbyheart&utm_medium=blogpost&utm_campaign=turn-your-ship-around
