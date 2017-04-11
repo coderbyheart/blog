@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: A list of Community Tech Conferences in RheinMain
 ---
 
