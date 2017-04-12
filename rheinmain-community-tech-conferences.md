@@ -8,7 +8,7 @@ This page collects the community organized tech conferences in the RheinMain reg
 Community means: that it is organized by members of the respective community, and not focused on creating a profit. The RheinMain region is roughly the wider area spanning Frankfurt, Mainz, Wiesbaden, Darmstadt, Offenbach, Hanau.
 
 * [Bus Conf](http://www.bus-conf.org/)  
-  *3.-5. August 2017, Rückersbach, Germany*, €311–427 [🌈](http://confcodeofconduct.com/)  
+  *3.-5. August 2017, Rückersbach, Germany, €311–427* [🌈](http://confcodeofconduct.com/)  
   An open space unconference focusing on functional programming
 
 
