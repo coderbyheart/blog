@@ -3,7 +3,7 @@ layout: post
 title:  "The full stack developer trap"
 date:   2017-04-21 11:00:00
 excerpt: > #
-  I realized that there is a "full-stack developer trap": your work is evaluated based on your best skill, which unfulfillable expectations.
+  I realized that there is a full-stack developer trap: your work is evaluated based on your best skill, which unfulfillable expectations.
 categories:
 - softwarecraftsmanship
 - work
