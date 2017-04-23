@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bring you inexperience to a conference"
+title:  "Bring your inexperience to a conference"
 date:   2017-04-23 13:00:00
 excerpt: > #
   On contributing to a community
