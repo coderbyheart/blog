@@ -11,7 +11,7 @@ categories:
 permalink: bring-your-inexperience-to-a-conference
 ---
 
-In August there will be the 8th [International Software Craft and Testing Conference](https://socrates-conference.de/) in Soltau, Germany. For me, the SoCraTes is the most important event in my profession every year, because I get to so see so many inspiring people.
+In August there will be the 7th [International Software Craft and Testing Conference](https://socrates-conference.de/) in Soltau, Germany. For me, the SoCraTes is the most important event in my profession every year, because I get to so see so many inspiring people.
 
 But it’s not only the high concentration of incredibly skilled professionals that gather in this remote location in northern Germany that provides so much value to me.
 
