@@ -48,7 +48,7 @@ For the daily stand-up everyone can gather in the big open space (the townhall) 
 
 ![Townhall](./uploads/2017/fantasy-office/v2/townhall-2k.jpg)
 
-No dedicated meeting room? Yes, meetings should be reduced to an absolute minimum and can be held in one of the offices or in the stand-up are. This makes them public and everyone easily has the chance to join in. The same is true for client meetings, which in my experience rarely take care at the office if you are an agency, anyway. So, no dedicated meeting rooms necessary.
+No dedicated meeting room? Yes, meetings should be reduced to an absolute minimum and can be held in one of the offices or in the stand-up area. This makes them public and everyone easily has the chance to join in. The same is true for client meetings, which in my experience rarely take place at the office if you are an agency, anyway. So, no dedicated meeting rooms necessary.
 
 The unisex bathroom has a separate shower for those that come to the office by bike.
 
