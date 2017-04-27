@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Office design by an office hater"
+date:   2017-04-27 08:00:00
+excerpt: > #
+  I hate offices. But how many interior designers have I heard of, that are coders, too? Let me take you through my dream office!
+
+categories:
+- softwarecraftsmanship
+- work
+permalink: office-design-by-an-office-hater
+---
+
+I hate offices. I feel uncomfortable in most of them because they are too loud, to crammed, smell, are too hot or cold. Being a knowledge worker I first and foremost need office space that helps me think; but most companies create office space for representative reasons, to impress clients, and show off their success, and and not with a focus on the productivity of those tasked with creating this success.
+
+Just last week I was visiting a tech company here in Frankfurt and was shocked to discover what the consultants they paid for designing their new interior came up with: an open floor plan of randomly distributed work station left and right of a walkway and some meeting spots sprinkled within. For me this is madness: not only is there constant sound because of the big open-floor plan, but I also get distracted by visual noise: movement. And since the office lacked warm colors, the few unpretentious plants only added to this depressing instance of a creative production line.
+
+And then I thought, that I’m making it too easy for myself to just complain. How many interior designers have I heard of, that are coders, too? None. So how can I expect them to come up with an office I would work in? Right, I can't.
+
+I think it’s time that we as software craftspeople, who constantly thrive to improve our skills and tools, start looking at the place where we are practicing our craft and take influence in how they are built. We have everything we need for that: I’ve been using 3D tools since I’m a teenager, I’ve built maps for shooters like Doom and Duke Nukem, I’ve been a first-person shooter player for ever. This makes us very well skilled to also think in the physical space of the office world. Not to mention the whole VR thing. The tools we use are more or less used in interior design and architecture, and this enables us to speak the language of architects and interior designer easily.
+
+Since I recently came around an [awesome, browser-based tool](https://spaces.archilogic.com/explore) for this task, I set out to create my ideal office. I tried to be very realistic and use a simple, rectangular floor as the base. I’ve created an office for roughly 30 people, because this is known to be optimal team size for humans. Above that size, teams should split up anyway (and move to another floor).
+
+Because I think that open space floor plans are awful I tried to create as much enclosed space as possible, but at the same time enabling everyone to quickly see if a person is busy, available or not even present. Unfortunately glass reflects sound very good that’s why the walls in the offices are made of [sound muffling wood panels](http://swedese.com/products/accessories/noton). Carpet floors everywhere help with reducing noise further.
+
+## Let me take you through my dream office
+
+The base building block is the 3 people office (my favorite!). I think this is the ideal size for day to day work. Every office has tables that are adjustable in height electrically and a big flat screen, for pair programming, displaying team metrics and doing video calls with those who work remotely. 
+
+![3 people office](./uploads/2017/fantasy-office/v2/3-people-office-2k.jpg)
+
+Note that a wall shields the tables from the entrance, this reduces visual noise. Teams can also use this wall to hang information about their work, or “Do not disturb” signs.
+
+![Office entrance](./uploads/2017/fantasy-office/v2/office-entrance-2k.jpg)
+
+Some tasks require bigger groups to work together. Therefore two 6 people office rooms exist. They have the same features as the 3 people office.
+
+![6 people office](./uploads/2017/fantasy-office/v2/6-people-office-2k.jpg)
+
+For one-on-one meetings or just for some quiet alone-time, there are dedicated places and a nice library.
+
+![One-on-one](./uploads/2017/fantasy-office/v2/one-on-one-2k.jpg)
+
+![Library](./uploads/2017/fantasy-office/v2/library-2k.jpg)
+
+For the daily stand-up everyone can gather in the big open space (the townhall) in the middle of the office, which also brings everyone together during lunch time, and can quickly be transformed into a space for meetups.
+
+![Townhall](./uploads/2017/fantasy-office/v2/townhall-2k.jpg)
+
+No dedicated meeting room? Yes, meetings should be reduced to an absolute minimum and can be held in one of the offices or in the stand-up are. This makes them public and everyone easily has the chance to join in. The same is true for client meetings, which in my experience rarely take care at the office if you are an agency, anyway. So, no dedicated meeting rooms necessary.
+
+The unisex bathroom has a separate shower for those that come to the office by bike.
+
+![Unisex bathroom](./uploads/2017/fantasy-office/v2/bathroom-2k.jpg)
+
+You can walk through [the plan](https://goo.gl/ewUBFc) yourself and even modify it with the awesome Archilogic editor.
+
+<iframe src="https://spaces.archilogic.com/3d/!768cc6ba-c623-4f8f-9616-ad80515a9322?mode=view&amp;main-menu=interior&amp;view-menu=camera-bookmarks&amp;presentation=loop" width="768" height="500" frameBorder="0" onmousewheel="false" allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
+ 
+**What do you think about this design?** Please leave your feedback in the comments.
+
+And start spreading the word that we as developers are interested in taking part in office space design and let me know, how your ideal workplace looks like!
