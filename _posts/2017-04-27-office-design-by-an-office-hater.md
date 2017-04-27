@@ -56,7 +56,7 @@ The unisex bathroom has a separate shower for those that come to the office by b
 
 The kitchen is very well equipped with a large stove, because cooking is a great social activity, and you can't beat healthy, self-cooked lunch.
 
-![Kitchen](./uploads/2017/fantasy-office/v2/bathroom-2k.jpg)
+![Kitchen](./uploads/2017/fantasy-office/v2/kitchen-2k.jpg)
 
 You can walk through [the plan](https://goo.gl/ewUBFc) yourself and even modify it with the awesome Archilogic editor.
 
