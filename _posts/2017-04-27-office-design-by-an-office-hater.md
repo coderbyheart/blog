@@ -54,6 +54,10 @@ The unisex bathroom has a separate shower for those that come to the office by b
 
 ![Unisex bathroom](./uploads/2017/fantasy-office/v2/bathroom-2k.jpg)
 
+The kitchen is very well equipped with a large stove, because cooking is a great social activity, and you can't beat healthy, self-cooked lunch.
+
+![Kitchen](./uploads/2017/fantasy-office/v2/bathroom-2k.jpg)
+
 You can walk through [the plan](https://goo.gl/ewUBFc) yourself and even modify it with the awesome Archilogic editor.
 
 <iframe src="https://spaces.archilogic.com/3d/!768cc6ba-c623-4f8f-9616-ad80515a9322?mode=view&amp;main-menu=interior&amp;view-menu=camera-bookmarks&amp;presentation=loop" width="768" height="550" frameBorder="0" onmousewheel="false" allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
@@ -65,3 +69,9 @@ And start spreading the word that we as developers are interested in taking part
 ## Links
 
 [Martin Berry](https://supine.com/) pointed me towards [this post](https://www.campaignmonitor.com/blog/company/2010/08/the-new-campaign-monitor-office/) about about an office space where everyone has their own room. The company [did drop](https://www.businessinsider.com.au/inside-campaign-monitors-insane-new-office-almost-40-storeys-up-overlooking-the-sydney-cbd-2015-3) the concept as they kept growing, though.
+
+## Updates
+
+Updated the kitchen, thanks to [Tobias](https://twitter.com/schinkenstrudel) for pointing this out!
+
+> I think office kitchens desperately need a real stove-top or alternatively a sandwich-maker, raclette or fondue set. Preparing the shared meal together is really good for the community. Likewise things like sandwiches or raclette where everybody can bring something and then share. Another cool thing is to have a big salad bowl and make a huge mixed salad together where everybody can contribute.
