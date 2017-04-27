@@ -56,7 +56,7 @@ The unisex bathroom has a separate shower for those that come to the office by b
 
 You can walk through [the plan](https://goo.gl/ewUBFc) yourself and even modify it with the awesome Archilogic editor.
 
-<iframe src="https://spaces.archilogic.com/3d/!768cc6ba-c623-4f8f-9616-ad80515a9322?mode=view&amp;main-menu=interior&amp;view-menu=camera-bookmarks&amp;presentation=loop" width="768" height="500" frameBorder="0" onmousewheel="false" allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
+<iframe src="https://spaces.archilogic.com/3d/!768cc6ba-c623-4f8f-9616-ad80515a9322?mode=view&amp;main-menu=interior&amp;view-menu=camera-bookmarks&amp;presentation=loop" width="768" height="550" frameBorder="0" onmousewheel="false" allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
  
 **What do you think about this design?** Please leave your feedback in the comments.
 
