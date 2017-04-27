@@ -5,12 +5,12 @@ timezone: Europe/Berlin
 
 harmony:
   name: coder.by(&lt;3) // blog
-  description: by Markus Tacker, a CTO from Offenbach, Germany.
+  description: I help distributed teams to develop great software and enjoy the process.
   photo: https://farm8.staticflickr.com/7336/13376420184_1f7c386fd7_n.jpg
   meta_description: > #
-    Blog by Markus Tacker, a CTO from Offenbach, Germany.
+    Blog by Markus Tacker, a freelance software craftsman from Offenbach, Germany.
     A coder by ♥ and organizational hacker by passion.
-    I help teams to build great software and to enjoy their work.
+    I help distributed teams to build great software and to enjoy their work.
   basetheme: harmony
   author:
     name: Markus Tacker
