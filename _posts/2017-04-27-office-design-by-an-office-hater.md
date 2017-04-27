@@ -12,7 +12,7 @@ permalink: office-design-by-an-office-hater
 photo: https://blog.coderbyheart.com/uploads/2017/fantasy-office/v2/3-people-office-2k.jpg
 ---
 
-I hate offices. I feel uncomfortable in most of them because they are too loud, to crammed, smell, are too hot or cold. Being a knowledge worker I first and foremost need office space that helps me think; but most companies create office space for representative reasons, to impress clients, and show off their success, and and not with a focus on the productivity of those tasked with creating this success.
+I hate offices. I feel uncomfortable in most of them because they are too loud, too crammed, smell, are too hot or cold. Being a knowledge worker I first and foremost need office space that helps me think; but most companies create office space for representative reasons, to impress clients, and show off their success, and and not with a focus on the productivity of those tasked with creating this success.
 
 Just last week I was visiting a tech company here in Frankfurt and was shocked to discover what the consultants they paid for designing their new interior came up with: an open floor plan of randomly distributed work station left and right of a walkway and some meeting spots sprinkled within. For me this is madness: not only is there constant sound because of the big open-floor plan, but I also get distracted by visual noise: movement. And since the office lacked warm colors, the few unpretentious plants only added to this depressing instance of a creative production line.
 
