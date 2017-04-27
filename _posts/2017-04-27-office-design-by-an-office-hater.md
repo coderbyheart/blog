@@ -77,6 +77,8 @@ Here are some reactions (from other developers):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">almost like all the open plan offices... not! Just bring this next time you go to a job interview to suggest &#39;minor&#39; corrections :-) <a href="https://t.co/nfEJXfZIoF">https://t.co/nfEJXfZIoF</a></p>&mdash; Alexander Reelsen (@spinscale) <a href="https://twitter.com/spinscale/status/857568366357360642">April 27, 2017</a></blockquote>
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/coderbyheart">@coderbyheart</a> &lt;3 a dream</p>&mdash; Silvia Hundegger 🦄 (@SilviaHundegger) <a href="https://twitter.com/SilviaHundegger/status/857575027511898112">April 27, 2017</a></blockquote>
+
 ## Links
 
 [Martin Berry](https://twitter.com/martinbarry) pointed me towards [this post](https://www.campaignmonitor.com/blog/company/2010/08/the-new-campaign-monitor-office/) about about an office space where everyone has their own room. The company [did drop](https://www.businessinsider.com.au/inside-campaign-monitors-insane-new-office-almost-40-storeys-up-overlooking-the-sydney-cbd-2015-3) the concept as they kept growing, though.
