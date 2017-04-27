@@ -9,6 +9,7 @@ categories:
 - softwarecraftsmanship
 - work
 permalink: office-design-by-an-office-hater
+photo: https://blog.coderbyheart.com/uploads/2017/fantasy-office/v2/3-people-office-2k.jpg
 ---
 
 I hate offices. I feel uncomfortable in most of them because they are too loud, to crammed, smell, are too hot or cold. Being a knowledge worker I first and foremost need office space that helps me think; but most companies create office space for representative reasons, to impress clients, and show off their success, and and not with a focus on the productivity of those tasked with creating this success.

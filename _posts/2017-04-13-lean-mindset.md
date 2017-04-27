@@ -11,6 +11,7 @@ categories:
 - lean
 - books
 permalink: lean-mindset
+photo: https://blog.coderbyheart.com/uploads/2017/lean-mindset.jpg
 ---
 
 ![Lean Mindset by Mary and Tom Poppendieck][photo]
