@@ -26,7 +26,7 @@ Because I think that open space floor plans are awful I tried to create as much 
 
 ## Let me take you through my dream office
 
-The base building block is the 3 people office (my favorite!). I think this is the ideal size for day to day work. Every office has tables that are adjustable in height electrically and a big flat screen, for pair programming, displaying team metrics and doing video calls with those who work remotely. 
+The base building block is the 3 people office (my favorite!). I think this is the ideal size for day to day work. Every office has tables that are adjustable in height electrically and a big (55") flat screen, for pair programming, displaying team metrics and doing video calls with those who work remotely.
 
 ![3 people office](./uploads/2017/fantasy-office/v2/3-people-office-2k.jpg)
 
@@ -44,7 +44,7 @@ For one-on-one meetings or just for some quiet alone-time, there are dedicated p
 
 ![Library](./uploads/2017/fantasy-office/v2/library-2k.jpg)
 
-For the daily stand-up everyone can gather in the big open space (the townhall) in the middle of the office, which also brings everyone together during lunch time, and can quickly be transformed into a space for meetups.
+For the daily stand-up everyone can gather in the big open space (the townhall) in the middle of the office, which also brings everyone together during lunch time, and can quickly be transformed into a space for meetups. The screens here are touch sensitive so you can use it while standing in front of them. Iiyama [has those](http://amzn.to/2q9qvoQ) or [go for the Jamboard](https://gsuite.google.com/jamboard/) if you can afford it.
 
 ![Townhall](./uploads/2017/fantasy-office/v2/townhall-2k.jpg)
 
