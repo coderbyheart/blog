@@ -12,6 +12,13 @@ layout: default
     </div>
   </div>
 
+  <div class="sharing">
+    <h2>Share this post</h2>
+    <p>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-text="{% if page.tweet %}{{ page.tweet }}{% else %}{{ page.title }}{% endif %}" data-via="coderbyheart" data-related="coderbyheart" data-lang="en" data-show-count="false">Tweet</a>
+    </p>
+  </div>
+
   <hr>
 
   {% include disqus.html %}
@@ -49,3 +56,4 @@ layout: default
   </div>
 </div>
 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

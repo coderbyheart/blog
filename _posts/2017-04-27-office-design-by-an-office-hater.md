@@ -10,6 +10,7 @@ categories:
 - work
 permalink: office-design-by-an-office-hater
 photo: https://blog.coderbyheart.com/uploads/2017/fantasy-office/v2/3-people-office-2k.jpg
+tweet: I hate offices. Let me take you through my dream office!
 ---
 
 I hate offices. I feel uncomfortable in most of them because they are too loud, too crammed, smell, are too hot or cold. Being a knowledge worker I first and foremost need office space that helps me think; but most companies create office space for representative reasons, to impress clients, and show off their success, and and not with a focus on the productivity of those tasked with creating this success.
@@ -66,9 +67,19 @@ You can walk through [the plan](https://goo.gl/ewUBFc) yourself and even modify 
 
 And start spreading the word that we as developers are interested in taking part in office space design and let me know, how your ideal workplace looks like!
 
+## Reactions
+
+Here are some reactions (from other developers):
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/coderbyheart">@coderbyheart</a> Oh my god, that is such a cool post! Must be fun to draft your own office 😲</p>&mdash; Patrick Stapfer (@ryyppy) <a href="https://twitter.com/ryyppy/status/857537165944913920">April 27, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I came to hate open plan offices, this looks as nice as an office can get. <a href="https://t.co/RVOXySq29I">https://t.co/RVOXySq29I</a></p>&mdash; Florian Hopf (@fhopf) <a href="https://twitter.com/fhopf/status/857548445510361088">April 27, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">almost like all the open plan offices... not! Just bring this next time you go to a job interview to suggest &#39;minor&#39; corrections :-) <a href="https://t.co/nfEJXfZIoF">https://t.co/nfEJXfZIoF</a></p>&mdash; Alexander Reelsen (@spinscale) <a href="https://twitter.com/spinscale/status/857568366357360642">April 27, 2017</a></blockquote>
+
 ## Links
 
-[Martin Berry](https://supine.com/) pointed me towards [this post](https://www.campaignmonitor.com/blog/company/2010/08/the-new-campaign-monitor-office/) about about an office space where everyone has their own room. The company [did drop](https://www.businessinsider.com.au/inside-campaign-monitors-insane-new-office-almost-40-storeys-up-overlooking-the-sydney-cbd-2015-3) the concept as they kept growing, though.
+[Martin Berry](https://twitter.com/martinbarry) pointed me towards [this post](https://www.campaignmonitor.com/blog/company/2010/08/the-new-campaign-monitor-office/) about about an office space where everyone has their own room. The company [did drop](https://www.businessinsider.com.au/inside-campaign-monitors-insane-new-office-almost-40-storeys-up-overlooking-the-sydney-cbd-2015-3) the concept as they kept growing, though.
 
 ## Updates
 
