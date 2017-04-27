@@ -61,3 +61,7 @@ You can walk through [the plan](https://goo.gl/ewUBFc) yourself and even modify 
 **What do you think about this design?** Please leave your feedback in the comments.
 
 And start spreading the word that we as developers are interested in taking part in office space design and let me know, how your ideal workplace looks like!
+
+## Links
+
+[Martin Berry](https://supine.com/) pointed me towards [this post](https://www.campaignmonitor.com/blog/company/2010/08/the-new-campaign-monitor-office/) about about an office space where everyone has their own room. The company [did drop](https://www.businessinsider.com.au/inside-campaign-monitors-insane-new-office-almost-40-storeys-up-overlooking-the-sydney-cbd-2015-3) the concept as they kept growing, though.
