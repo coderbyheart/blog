@@ -9,7 +9,7 @@ categories:
 - softwarecraftsmanship
 - work
 permalink: office-design-by-an-office-hater
-photo: https://blog.coderbyheart.com/uploads/2017/fantasy-office/v2/3-people-office-2k.jpg
+photo: https://coderbyheart.github.io/blog/uploads/2017/fantasy-office/3-people-office-2k.jpg
 tweet: I hate offices. Let me take you through my dream office!
 ---
 
@@ -29,35 +29,35 @@ Because I think that open space floor plans are awful I tried to create as much 
 
 The base building block is the 3 people office (my favorite!). I think this is the ideal size for day to day work. Every office has tables that are adjustable in height electrically and a big (55") flat screen, for pair programming, displaying team metrics and doing video calls with those who work remotely.
 
-![3 people office](./uploads/2017/fantasy-office/v2/3-people-office-2k.jpg)
+![3 people office](https://coderbyheart.github.io/blog/uploads/2017/fantasy-office/3-people-office-2k.jpg)
 
 Note that a wall shields the tables from the entrance, this reduces visual noise. Teams can also use this wall to hang information about their work, or “Do not disturb” signs.
 
-![Office entrance](./uploads/2017/fantasy-office/v2/office-entrance-2k.jpg)
+![Office entrance](https://coderbyheart.github.io/blog/uploads/2017/fantasy-office/office-entrance-2k.jpg)
 
 Some tasks require bigger groups to work together. Therefore two 6 people office rooms exist. They have the same features as the 3 people office.
 
-![6 people office](./uploads/2017/fantasy-office/v2/6-people-office-2k.jpg)
+![6 people office](https://coderbyheart.github.io/blog/uploads/2017/fantasy-office/6-people-office-2k.jpg)
 
 For one-on-one meetings or just for some quiet alone-time, there are dedicated places and a nice library.
 
-![One-on-one](./uploads/2017/fantasy-office/v2/one-on-one-2k.jpg)
+![One-on-one](https://coderbyheart.github.io/blog/uploads/2017/fantasy-office/one-on-one-2k.jpg)
 
-![Library](./uploads/2017/fantasy-office/v2/library-2k.jpg)
+![Library](https://coderbyheart.github.io/blog/uploads/2017/fantasy-office/library-2k.jpg)
 
 For the daily stand-up everyone can gather in the big open space (the townhall) in the middle of the office, which also brings everyone together during lunch time, and can quickly be transformed into a space for meetups. The screens here are touch sensitive so you can use it while standing in front of them. Iiyama [has those](http://amzn.to/2q9qvoQ) or [go for the Jamboard](https://gsuite.google.com/jamboard/) if you can afford it.
 
-![Townhall](./uploads/2017/fantasy-office/v2/townhall-2k.jpg)
+![Townhall](https://coderbyheart.github.io/blog/uploads/2017/fantasy-office/townhall-2k.jpg)
 
 No dedicated meeting room? Yes, meetings should be reduced to an absolute minimum and can be held in one of the offices or in the stand-up area. This makes them public and everyone easily has the chance to join in. The same is true for client meetings, which in my experience rarely take place at the office if you are an agency, anyway. So, no dedicated meeting rooms necessary.
 
 The unisex bathroom has a separate shower for those that come to the office by bike.
 
-![Unisex bathroom](./uploads/2017/fantasy-office/v2/bathroom-2k.jpg?v=2.2)
+![Unisex bathroom](https://coderbyheart.github.io/blog/uploads/2017/fantasy-office/bathroom-2k.jpg?v=2.2)
 
 The kitchen is very well equipped with a large stove, because cooking is a great social activity, and you can't beat healthy, self-cooked lunch.
 
-![Kitchen](./uploads/2017/fantasy-office/v2/kitchen-2k.jpg?v=2.2)
+![Kitchen](https://coderbyheart.github.io/blog/uploads/2017/fantasy-office/kitchen-2k.jpg?v=2.2)
 
 You can walk through [the plan](https://goo.gl/ewUBFc) yourself and even modify it with the awesome Archilogic editor.
 
