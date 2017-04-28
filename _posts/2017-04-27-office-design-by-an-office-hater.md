@@ -53,11 +53,11 @@ No dedicated meeting room? Yes, meetings should be reduced to an absolute minimu
 
 The unisex bathroom has a separate shower for those that come to the office by bike.
 
-![Unisex bathroom](./uploads/2017/fantasy-office/v2/bathroom-2k.jpg)
+![Unisex bathroom](./uploads/2017/fantasy-office/v2/bathroom-2k.jpg?v=2.2)
 
 The kitchen is very well equipped with a large stove, because cooking is a great social activity, and you can't beat healthy, self-cooked lunch.
 
-![Kitchen](./uploads/2017/fantasy-office/v2/kitchen-2k.jpg)
+![Kitchen](./uploads/2017/fantasy-office/v2/kitchen-2k.jpg?v=2.2)
 
 You can walk through [the plan](https://goo.gl/ewUBFc) yourself and even modify it with the awesome Archilogic editor.
 
@@ -84,6 +84,12 @@ Here are some reactions (from other developers):
 [Martin Berry](https://twitter.com/martinbarry) pointed me towards [this post](https://www.campaignmonitor.com/blog/company/2010/08/the-new-campaign-monitor-office/) about about an office space where everyone has their own room. The company [did drop](https://www.businessinsider.com.au/inside-campaign-monitors-insane-new-office-almost-40-storeys-up-overlooking-the-sydney-cbd-2015-3) the concept as they kept growing, though.
 
 ## Updates
+
+### 2.2
+
+Updated the bathrooms and converted the stalls into separate rooms. Also added a wall between so there is more barrier between the bathrooms and the kitchen.
+
+### 2.1
 
 Updated the kitchen, thanks to [Tobias](https://twitter.com/schinkenstrudel) for pointing this out!
 
