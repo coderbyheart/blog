@@ -15,7 +15,7 @@ permalink: working-remote-celebrate-successes
 ---
 
 *This post series is a summary of my talk about the challenge working in distributed teams. 
-[Find the other parts here.]({{ '/working-in-distributed-teams-the-three-most-important-challenges' | prepend:site.baseurl | prepend:site.url }})*
+[Find the other parts here.]({{ 'working-in-distributed-teams-the-three-most-important-challenges' | prepend:site.baseurl | prepend:site.url }})*
 
 In an environment where we are continuously pushing out changes it is hard to find clear milestones or even changes that
 are “big”. If you work in an organization that is a web based business you work towards processes that allow for 
@@ -30,7 +30,7 @@ that everyone contributes towards a common goal.
 Because it will be hard to exactly pin the moment when everyone has achieved something outstanding at the same time you 
 as a manager need to keep track of the progress and arbitrary decide when it is time to party!
 
-![Markus at ICANN 50 in London]({{ '/uploads/2016/remote-celebrate.jpg' | prepend:site.baseurl | prepend:site.url }})
+![Markus at ICANN 50 in London]({{ 'uploads/2016/remote-celebrate.jpg' | prepend:site.baseurl | prepend:site.url }})
 
 On the picture you see me during the ICANN 50 conference in London in 2015, where we celebrated with our partners and 
 especially as a team the launch of the .hiv TLD. I will never forget this day in my entire career and even if I wore a 

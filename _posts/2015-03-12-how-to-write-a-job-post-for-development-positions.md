@@ -12,7 +12,7 @@ categories:
 permalink: how-to-write-a-job-post-for-development-positions
 ---
 
-I recently blogged about [How to find a CTO]({{ '/how-to-find-a-cto' | prepend:site.baseurl | prepend:site.url }}). An important role in your search for your CTO or any other development role is your job page. Don't miss the chance to impress a curious developer because **every** candidate will browse your website to look up your job postings.
+I recently blogged about [How to find a CTO]({{ 'how-to-find-a-cto' | prepend:site.baseurl | prepend:site.url }}). An important role in your search for your CTO or any other development role is your job page. Don't miss the chance to impress a curious developer because **every** candidate will browse your website to look up your job postings.
 
 I have a shocking idea for you: ditch the bullet-pointed job description. First and foremost you are looking for a team member with a broad range of skills to join you on a year long journey. It's more important to find a person who is smart, curious, genuinely interested in your business and most important a match for your team culture than a match to your current tech stack.
 

@@ -15,11 +15,11 @@ So here is my idea:
 
 Let me show you some pictures to illustrate my idea: heat maps help to visualize geologically coded events. The first example from [umwelthaus.org](http://cadenza.umwelthaus.org/pages/map/default/index.xhtml) is a heat map of the aircraft noise measured during the day: 
 
-![Airport Frankfurt Noise Heatmap]({{ '/uploads/2015/02/heatmap-airport.png' | prepend:site.baseurl | prepend:site.url }})
+![Airport Frankfurt Noise Heatmap]({{ 'uploads/2015/02/heatmap-airport.png' | prepend:site.baseurl | prepend:site.url }})
 
 The second example from [crime-radar.com](http://www.crime-radar.com/) is the number of crimes committed in Frankfurt's city limits:
 
-![Crime Heat Map of RheinMain]({{ '/uploads/2015/02/karte_cr_delikte_als_dichtekarte.jpg' | prepend:site.baseurl | prepend:site.url }})
+![Crime Heat Map of RheinMain]({{ 'uploads/2015/02/karte_cr_delikte_als_dichtekarte.jpg' | prepend:site.baseurl | prepend:site.url }})
 
 If you combine those two you'll get a good idea which neighbourhoods to avoid if you were to move into this region.
 

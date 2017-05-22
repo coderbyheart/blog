@@ -17,14 +17,14 @@ That's why I'll offer free bimonthly office hours either on Google Hangout or at
 
 Email me at [m@coderbyheart.com][2] with a short intro and a link to your LinkedIn or XING profile and pick a free slot and I'll get back to you to confirm our meeting.
 
- 1. Thursday, Jan 22nd 2015: taken ([How to write a CTO job posting]({{ '/how-to-find-a-cto' | prepend:site.baseurl | prepend:site.url }}))
- 2. Thursday, Feb 5th 2015, taken (App-Feedback for [talkREAL]({{ '/uploads/2015/01/talkREAL_App_PitchDeck_Tech_Short_vcR10.pdf' | prepend:site.baseurl | prepend:site.url }}))
- 3. Thursday, Mar 5th 2015, 1pm-2pm: ([Backup your business: Advice for non-technical co-founders]({{ '/backup-your-business' | prepend:site.baseurl | prepend:site.url }}))
+ 1. Thursday, Jan 22nd 2015: taken ([How to write a CTO job posting]({{ 'how-to-find-a-cto' | prepend:site.baseurl | prepend:site.url }}))
+ 2. Thursday, Feb 5th 2015, taken (App-Feedback for [talkREAL]({{ 'uploads/2015/01/talkREAL_App_PitchDeck_Tech_Short_vcR10.pdf' | prepend:site.baseurl | prepend:site.url }}))
+ 3. Thursday, Mar 5th 2015, 1pm-2pm: ([Backup your business: Advice for non-technical co-founders]({{ 'backup-your-business' | prepend:site.baseurl | prepend:site.url }}))
  4. Thursday, Mar 19th 2015, 1pm-2pm: ([BASISREBELL](https://basisrebell.com/))
 
 There are no strings attached.
 
-*Update March 22nd 2015:* I've discontinued the office hours. Learn why, [here]({{ '/office-hours-discontinued' | prepend:site.baseurl | prepend:site.url }}).
+*Update March 22nd 2015:* I've discontinued the office hours. Learn why, [here]({{ 'office-hours-discontinued' | prepend:site.baseurl | prepend:site.url }}).
 
 [1]: http://rheinmain.startupweekend.org/
 [2]: mailto:m@coderbyheart.com?subject=Office+Hours

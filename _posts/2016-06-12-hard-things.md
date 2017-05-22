@@ -11,7 +11,7 @@ categories:
 permalink: the-hard-things-about-hard-things
 ---
 
-![The Hard Things About Hard Things]({{ '/uploads/2016/hard-things.jpg' | prepend:site.baseurl | prepend:site.url }})
+![The Hard Things About Hard Things]({{ 'uploads/2016/hard-things.jpg' | prepend:site.baseurl | prepend:site.url }})
 
 [The Hard Things About Hard Things][1] by [Ben Horowitz][2] is a book for CEOs. 
 Horowitz explains in a very easy to read and an entertaining style his learnings

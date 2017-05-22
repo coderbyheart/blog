@@ -14,7 +14,7 @@ categories:
 permalink: success-through-humanness
 ---
 
-![Womit ich nie gerechnet habe]({{ '/uploads/2016/werner-wingh.jpg' | prepend:site.baseurl | prepend:site.url }})
+![Womit ich nie gerechnet habe]({{ 'uploads/2016/werner-wingh.jpg' | prepend:site.baseurl | prepend:site.url }})
 
 [Womit ich nie gerechnet habe][1] is the (German) autobiography by the founder
 of _dm_, today the largest pharmacy retailer in Europe. Within 35 years, Werner

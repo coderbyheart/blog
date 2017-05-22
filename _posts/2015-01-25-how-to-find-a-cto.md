@@ -71,7 +71,7 @@ That is a hard question. In the end the process of building software is the same
 
 I will always ask myself this question.
 
-[1]: {{ '/office-hours' | prepend:site.baseurl | prepend:site.url }}
+[1]: {{ 'office-hours' | prepend:site.baseurl | prepend:site.url }}
 [2]: http://die-zentrale-ffm.de/
 [3]: http://we.are.expensify.com/why-work-here/
 [4]: https://zenmate.com/jobs/

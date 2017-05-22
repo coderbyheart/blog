@@ -19,7 +19,7 @@ This post series is a summary of my talk about the challenge working in distribu
  
 It's a 40 minute talk so I decided to split it into three separate posts, each on focusing on one challenge:
 
-1. [the missing watercooler]({{ '/working-remote-fix-the-missing-watercooler' | prepend:site.baseurl | prepend:site.url }})
-2. [quality together-time]({{ '/working-remote-quality-together-time' | prepend:site.baseurl | prepend:site.url }})
-3. [celebrate successes]({{ '/working-remote-celebrate-successes' | prepend:site.baseurl | prepend:site.url }})
+1. [the missing watercooler]({{ 'working-remote-fix-the-missing-watercooler' | prepend:site.baseurl | prepend:site.url }})
+2. [quality together-time]({{ 'working-remote-quality-together-time' | prepend:site.baseurl | prepend:site.url }})
+3. [celebrate successes]({{ 'working-remote-celebrate-successes' | prepend:site.baseurl | prepend:site.url }})
 

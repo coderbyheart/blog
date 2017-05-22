@@ -43,4 +43,4 @@ I’ll keep on looking!
 
 ----
 
-I did [a followup]({{ '/just-edit-it' | prepend:site.baseurl | prepend:site.url }}) a few weeks later where I explained a little, what I think when talking about the *Github for data*.
+I did [a followup]({{ 'just-edit-it' | prepend:site.baseurl | prepend:site.url }}) a few weeks later where I explained a little, what I think when talking about the *Github for data*.

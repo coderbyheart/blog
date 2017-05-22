@@ -12,9 +12,9 @@ categories:
 permalink: one-month-into-my-new-job-as-the-cto-at-fintura
 ---
 
-*Update: five months after this post I quit my job at Fintura. [Read why …]({{ '/six-months-into-my-job-as-the-cto-at-fintura-I-quit' | prepend:site.baseurl | prepend:site.url }})*
+*Update: five months after this post I quit my job at Fintura. [Read why …]({{ 'six-months-into-my-job-as-the-cto-at-fintura-I-quit' | prepend:site.baseurl | prepend:site.url }})*
 
-In March [I announced]({{ '/leaving-dothiv' | prepend:site.baseurl | prepend:site.url }}) that I was looking for a new team. This announcement resulted in an unexpected high amount of offers. I took the time to evaluate them thoroughly by rating them based on a point system and first and foremost finding out if I would have the chance to do what I was looking for: *to build a team*. After a little more then four weeks I signed the contract with [Gernot Overbeck](https://www.xing.com/profile/GernotA_Overbeck) and [Thomas Becher](https://www.xing.com/profile/Thomas_Becher4) who are the founders of [Fintura](https://fintura.de/). I feel that both of them–given their experience in the industry–can provide a unique opportunity for the success of this fintech startup. 
+In March [I announced]({{ 'leaving-dothiv' | prepend:site.baseurl | prepend:site.url }}) that I was looking for a new team. This announcement resulted in an unexpected high amount of offers. I took the time to evaluate them thoroughly by rating them based on a point system and first and foremost finding out if I would have the chance to do what I was looking for: *to build a team*. After a little more then four weeks I signed the contract with [Gernot Overbeck](https://www.xing.com/profile/GernotA_Overbeck) and [Thomas Becher](https://www.xing.com/profile/Thomas_Becher4) who are the founders of [Fintura](https://fintura.de/). I feel that both of them–given their experience in the industry–can provide a unique opportunity for the success of this fintech startup. 
 
 ## They basically handed me the keys to their business infrastructure and I took over even before my official first day.
 
