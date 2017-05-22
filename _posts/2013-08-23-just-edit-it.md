@@ -12,7 +12,7 @@ tags:
 
 ## We need tools not protocols for editing content on the web.
 
-In [my first article](http://blog.coderbyheart.com/i-cannot-edit-that/) I barely scratched the surface of what is missing to encourage collaboration on public available data. In this article I’d like to share my view of what is missing.
+In [my first article]({{ '/i-cannot-edit-that' | prepend:site.baseurl | prepend:site.url }}) I barely scratched the surface of what is missing to encourage collaboration on public available data. In this article I’d like to share my view of what is missing.
 
 I have a publicized a list of technology user groups from my area at [usergroups.rheinmainrocks.de](http://usergroups.rheinmainrocks.de/). The list is driven by a collection of XML files describing each group. The XML files are hosted in a [GIT repository at GitHub](https://github.com/tacker/ugrm-data). They can be edited by everybody.
 

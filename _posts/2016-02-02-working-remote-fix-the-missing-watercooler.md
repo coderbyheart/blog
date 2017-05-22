@@ -15,12 +15,12 @@ permalink: working-remote-fix-the-missing-watercooler
 ---
 
 *This post series is a summary of my talk about the challenge working in distributed teams. 
-[Find the other parts here.]({{ site.url }}/working-in-distributed-teams-the-three-most-important-challenges)*
+[Find the other parts here.]({{ '/working-in-distributed-teams-the-three-most-important-challenges' | prepend:site.baseurl | prepend:site.url }})*
 
 The watercooler is a symbol for a central place in an office building where everyone walks by multiple times per day and 
 which enables informal, accidental meetings.
 
-![Pixar Headquarter]({{ site.url }}/uploads/2016/remote-pixar.jpg)
+![Pixar Headquarter]({{ '/uploads/2016/remote-pixar.jpg' | prepend:site.baseurl | prepend:site.url }})
 
 How important this place is can be seen at this picture: this is the atrium in the Pixar Headquarter. Steve Jobs himself 
 altered the initial concept of the architect and placed facilities like the restrooms, cafeterias, meeting rooms next to
@@ -111,7 +111,7 @@ you have to actually see and hear each other.
     provide a brief update of what has happened. Bringing everyone together again creates the opportunity for 
     cross-chatter and random connections.
 
-![Weekly Lunch]({{ site.url }}/uploads/2016/remote-lunch.jpg)
+![Weekly Lunch]({{ '/uploads/2016/remote-lunch.jpg' | prepend:site.baseurl | prepend:site.url }})
 
 By the way: this is a large flatscreen where we connected to our remotees … what’s especially nice is that this large 
 screen gives them a real physical presence because it provide a life-size image and a loud sound. And yes, getting the 
@@ -161,6 +161,6 @@ CEOs in every company. Go and scout a coworking space, work from home or even mo
 ## Coming up: quality together-time
 
 The second most important challenge is to ensure that the few occasions you will spend face-to-face with your colleagues 
- is quality time. [Read about it in Part 2]({{ site.url }}/working-remote-quality-together-time) of 
- [this series]({{ site.url }}/working-in-distributed-teams-the-three-most-important-challenges).
+ is quality time. [Read about it in Part 2]({{ '/working-remote-quality-together-time' | prepend:site.baseurl | prepend:site.url }}) of 
+ [this series]({{ '/working-in-distributed-teams-the-three-most-important-challenges' | prepend:site.baseurl | prepend:site.url }}).
 

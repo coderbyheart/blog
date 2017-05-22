@@ -11,10 +11,10 @@
         href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
         <!-- Harmony styles -->
-        <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
+        <link rel="stylesheet" type="text/css" href="{{ '/assets/css/main.css' | prepend:site.baseurl | prepend:site.url }}">
 
         <!-- Modernizr js -->
-        <script async src="{{ site.url }}/assets/js/modernizr.js"></script>
+        <script async src="{{ '/assets/js/modernizr.js' | prepend:site.baseurl | prepend:site.url }}"></script>
 
         <!-- IE Fixes -->
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -56,9 +56,9 @@
         <!-- jQuery -->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <!-- When no internet load JQuery from local -->
-        <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/jquery.min.js"><\/script>')</script>
+        <script>window.jQuery || document.write('<script src="{{ '/assets/js/jquery.min.js' | prepend:site.baseurl | prepend:site.url }}"><\/script>')</script>
         <!-- Site js -->
-        <script src="{{ site.url }}/assets/js/all.js"></script>
+        <script src="{{ '/assets/js/all.js' | prepend:site.baseurl | prepend:site.url }}"></script>
 
     </body>
 </html>

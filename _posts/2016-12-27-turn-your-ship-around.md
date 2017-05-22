@@ -13,7 +13,7 @@ categories:
 permalink: turn-your-ship-around
 ---
 
-![Turn Your Ship Around!]({{ site.url }}/uploads/2016/turn-your-ship-around.jpg)
+![Turn Your Ship Around!]({{ '/uploads/2016/turn-your-ship-around.jpg' | prepend:site.baseurl | prepend:site.url }})
 
 [*Turn Your Ship Around!*](http://amzn.to/2hjslhx) by [L. David Marquet][DM] 
 is as concrete as it gets for books that promise changing your organization for the better.

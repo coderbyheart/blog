@@ -14,7 +14,7 @@ categories:
 permalink: intro-to-the-frankfurt-tech-scene
 ---
 
-![Intro to the Frankfurt Tech scene]({{ site.url }}/uploads/2016/tech-scene-frankfurt.jpg)
+![Intro to the Frankfurt Tech scene]({{ '/uploads/2016/tech-scene-frankfurt.jpg' | prepend:site.baseurl | prepend:site.url }})
 
 This post tries to provide an entry point for newcomers to the tech scene
 in Frankfurt.

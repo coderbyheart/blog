@@ -23,7 +23,7 @@ have a second chance to intervene: I can try to shave off some extra functionali
 feature as small as possible. Once they are after my second firewall the development team has to implement them if they
 like it or not.
 
-![Pseudo-agile development process by Marty Cagan, my firewalls added]({{ site.url }}/assets/img/cto-firewall-cagan.png)
+![Pseudo-agile development process by Marty Cagan, my firewalls added]({{ '/assets/img/cto-firewall-cagan.png' | prepend:site.baseurl | prepend:site.url }})
 
 When I saw [Marty Cagans'](http://svpg.com/team/#marty) fantastic talk titled 
 ["Great Engineering, Failed Product"](http://www.ustream.tv/recorded/61491014) from this years
